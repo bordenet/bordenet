@@ -7,7 +7,7 @@ Seattle-based software engineering leader with a passion for building high-perfo
 ### Projects & Repositories I’m Proud Of
 
 #### 📌 Thought Leadership
-- **[Engineering_Culture](https://github.com/bordenet/Engineering_Culture/blob/main/README.md)** – Long-form essays on engineering practice, leadership, and how AI-first workflows are changing the game.
+- **[Engineering_Culture](https://github.com/bordenet/Engineering_Culture/blob/main/README.md)** – Short-form essays on engineering practice, leadership, and how AI-first workflows are changing the game.
 - **[Transformation_Case_Studies](https://github.com/bordenet/Transformation_Case_Studies)** – Real-world stories of engineering and organizational change, drawn from hard-earned lessons in the field.
 - **[ai-fundamentals-simple](https://github.com/bordenet/ai-fundamentals-simple)** - Instructional guide for engineering leaders. I have a private version with Jupyter notebooks and coding problems.
 
