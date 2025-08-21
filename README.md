@@ -12,10 +12,10 @@ Seattle-based software engineering leader with a passion for building high-perfo
 - **[ai-fundamentals-simple](https://github.com/bordenet/ai-fundamentals-simple)** - Instructional guide for engineering leaders. I have a private version with Jupyter notebooks and coding problems.
 
 #### 🛠 Tooling & Implementation Work
-- **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** – A Go app for solving Apple News “Quartile” puzzles.
-- **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** – Tooling to detect secrets committed to source control.
 - **[product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant)** – AI-powered CLI that reviews PR-FAQs and spec docs.
 - **[pr-faq-validator](https://github.com/bordenet/pr-faq-validator)** – A Go-based LLM tool that parses PR-FAQs and gives feedback straight from the terminal.
+- **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** – Tooling to detect secrets committed to source control.
+- **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** – A Go app for solving Apple News “Quartile” puzzles.
 
 ---
 
