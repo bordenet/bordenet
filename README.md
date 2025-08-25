@@ -16,6 +16,7 @@ Seattle-based software engineering leader with a passion for building high-perfo
 - **[pr-faq-validator](https://github.com/bordenet/pr-faq-validator)** – A Go-based LLM tool that parses PR-FAQs and gives feedback straight from the terminal.
 - **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** – Tooling to detect secrets committed to source control.
 - **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** – A Go app for solving Apple News “Quartile” puzzles.
+- **[RecipeArchive](https://github.com/bordenet/RecipeArchive)** - A mixed language solution for storing recipes and preparation directions.
 
 ---
 
