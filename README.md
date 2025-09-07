@@ -11,12 +11,14 @@ Seattle-based software engineering leader with a passion for building high-perfo
 - **[Transformation_Case_Studies](https://github.com/bordenet/Transformation_Case_Studies)** – Real-world stories of engineering and organizational change, drawn from hard-earned lessons in the field.
 - **[ai-fundamentals-simple](https://github.com/bordenet/ai-fundamentals-simple)** - Instructional guide for engineering leaders. I have a private version with Jupyter notebooks and coding problems.
 
+#### 🎧 Vibe Coding
+- **[RecipeArchive](https://github.com/bordenet/RecipeArchive)** - A simple but comprehensive solution for storing culinary recipes and preparation directions. Skip the life stories and long narratives and get some cooking done!
+- **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** – A Go app for solving Apple News “Quartile” puzzles.
+
 #### 🛠 Tooling & Implementation Work
 - **[product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant)** – AI-powered CLI that reviews PR-FAQs and spec docs.
 - **[pr-faq-validator](https://github.com/bordenet/pr-faq-validator)** – A Go-based LLM tool that parses PR-FAQs and gives feedback straight from the terminal.
 - **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** – Tooling to detect secrets committed to source control.
-- **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** – A Go app for solving Apple News “Quartile” puzzles.
-- **[RecipeArchive](https://github.com/bordenet/RecipeArchive)** - A mixed language solution for storing cullinary recipes and preparation directions.
 
 ---
 
