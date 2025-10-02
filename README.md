@@ -12,7 +12,7 @@ Seattle-based software engineering leader with a passion for building high-perfo
 - **[ai-fundamentals-simple](https://github.com/bordenet/ai-fundamentals-simple)** - Instructional guide for engineering leaders. I have a private version with Jupyter notebooks and coding problems.
 
 #### 🎧 Vibe Coding
-- **[RecipeArchive](https://github.com/bordenet/RecipeArchive)** - A simple but comprehensive solution for storing culinary recipes and preparation directions. Skip the life stories and long narratives and get some cooking done!
+- **[RecipeArchive](https://github.com/bordenet/RecipeArchive)** - A simple but comprehensive solution for storing culinary recipes and preparation directions. Skip the life stories and long narratives and get some cooking done! **This has been my primary focus lately.** I've learned a lot about AI coding assistants, including where they don't _currently_ perform well.
 - **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** – A Go app for solving Apple News “Quartile” puzzles.
 
 #### 🛠 Tooling & Implementation Work
