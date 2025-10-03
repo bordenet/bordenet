@@ -6,14 +6,14 @@ Seattle-based software engineering leader with a passion for building high-perfo
 
 ### Projects & Repositories I’m Proud Of
 
+#### 🎧 Vibe Coding
+- **[RecipeArchive](https://github.com/bordenet/RecipeArchive)** - A simple but comprehensive solution for storing culinary recipes and preparation directions. Skip the life stories and long narratives and get some cooking done! **This has been my primary focus lately.** I've learned a lot about AI coding assistants, including where they don't _currently_ perform well.
+- **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** – A Go app for solving Apple News “Quartile” puzzles.
+
 #### 📌 Thought Leadership
 - **[Engineering_Culture](https://github.com/bordenet/Engineering_Culture/blob/main/README.md)** – Short-form essays on engineering practice, leadership, and how AI-first workflows are changing the game.
 - **[Transformation_Case_Studies](https://github.com/bordenet/Transformation_Case_Studies)** – Real-world stories of engineering and organizational change, drawn from hard-earned lessons in the field.
 - **[ai-fundamentals-simple](https://github.com/bordenet/ai-fundamentals-simple)** - Instructional guide for engineering leaders. I have a private version with Jupyter notebooks and coding problems.
-
-#### 🎧 Vibe Coding
-- **[RecipeArchive](https://github.com/bordenet/RecipeArchive)** - A simple but comprehensive solution for storing culinary recipes and preparation directions. Skip the life stories and long narratives and get some cooking done! **This has been my primary focus lately.** I've learned a lot about AI coding assistants, including where they don't _currently_ perform well.
-- **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** – A Go app for solving Apple News “Quartile” puzzles.
 
 #### 🛠 Tooling & Implementation Work
 - **[product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant)** – AI-powered CLI that reviews PR-FAQs and spec docs.
