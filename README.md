@@ -9,8 +9,8 @@ The current LLM wave is the most profound platform shift I’ve seen in decades.
 ## 🧭 What I Build
 
 ### Vibe Coding
-- **[identity-deep-dive](https://github.com/bordenet/identity-deep-dive)** - OAuth2/OIDC authorization server, security scanners, and multi-tenant session management - learning identity protocols and patterns through implementation.
 - **[RecipeArchive](https://github.com/bordenet/RecipeArchive/blob/main/README.md)** – A clean, practical recipe manager built for speed and simplicity—no long stories, just great food. My main sandbox lately for testing AI-assisted development and identifying where current tools still fall short.
+- **[identity-deep-dive](https://github.com/bordenet/identity-deep-dive)** - OAuth2/OIDC authorization server, security scanners, and multi-tenant session management - learning identity protocols and patterns through implementation.
 - **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** – Go-based solver for Apple News “Quartile” puzzles, because sometimes problem solving _can_ be literal.
 
 ### Thought Leadership
