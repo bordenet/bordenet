@@ -22,7 +22,7 @@ The current LLM wave is the most profound platform shift I’ve seen in decades.
 - **[product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant)** – AI-powered app that helps build, review, and improve Product Design Specs (PRDs) for clarity, consistency, and completeness. I built this for a time when I wore a Product Manager hat.
 - **[pr-faq-validator](https://github.com/bordenet/pr-faq-validator)** – Go-based LLM-assisted terminal tool that parses [PR-FAQs](https://github.com/bordenet/Engineering_Culture/blob/main/SDLC/The_PR-FAQ.md) and provides rigorous feedback and scoring.
 - **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** – Lightweight (and FAST!) scanner to detect secrets accidentally committed to source control. Requires custom regex investment.
-- **[scripts](https://github.com/bordenet/bordenet/tree/main/scripts)** – Simple, purpose-built tools and utilities. These are practical scripts I've written to solve specific problems—feel free to adopt, adapt, or build on them for your own use.
+- **[scripts](https://github.com/bordenet/scripts)** – Simple, purpose-built tools and utilities. These are practical scripts I've written to solve specific problems—feel free to adopt, adapt, or build on them for your own use.
 
 ---
 
