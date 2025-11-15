@@ -11,7 +11,8 @@ The current LLM wave is the most profound platform shift I’ve seen in decades.
 ### Vibe Coding
 - **[RecipeArchive](https://github.com/bordenet/RecipeArchive/blob/main/README.md)** – A clean, practical recipe manager built for speed and simplicity—no long stories, just great food. My main sandbox lately for testing AI-assisted development and identifying where current tools still fall short. Support for web, iOS, Android.
 - **[identity-deep-dive](https://github.com/bordenet/identity-deep-dive)** - OAuth2/OIDC authorization server, security scanners, and multi-tenant session management - learning identity protocols and patterns through implementation.
-- **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** – Go-based solver for Apple News “Quartile” puzzles, because sometimes problem solving _can_ be literal.
+- **[codebase-reviewer](https://github.com/bordenet/codebase-reviewer)** – AI-powered codebase analysis and onboarding tool that generates structured prompts for systematic code review. Exploring documentation-first analysis patterns and automated tech debt detection.
+- **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** – Go-based solver for Apple News "Quartile" puzzles, because sometimes problem solving _can_ be literal.
 
 ### Thought Leadership
 - **[Engineering_Culture](https://github.com/bordenet/Engineering_Culture/blob/main/README.md)** – Essays on engineering leadership, velocity, and the evolving craft of software in the AI era. I lead with context—not control—and these essays are just a small sample of how I help organizations scale clarity, alignment, and execution.
