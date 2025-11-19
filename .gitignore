@@ -1,4 +1,19 @@
 
 
-#Ignore vscode AI rules
-.github/instructions/codacy.instructions.md
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Claude AI
+.claude/
+
+# Backup files
+*.backup
+*.bak
+
+# OS
+Thumbs.db
