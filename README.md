@@ -13,6 +13,7 @@ Engineering leader and builder based in Seattle. I scale teams, build platforms,
 - **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** - Go-based solver for Apple News Quartile puzzles.
 
 ### Writing
+- **[bloginator](https://github.com/bordenet/bloginator)** - RAG-based content generator that uses your existing writing as source material. Creates new articles grounded in your voice and ideas, not generic AI slop.
 - **[Engineering_Culture](https://github.com/bordenet/Engineering_Culture)** - Essays on engineering leadership, velocity, and software craft.
 - **[Transformation_Case_Studies](https://github.com/bordenet/Transformation_Case_Studies)** - Engineering and organizational transformation case studies with outcomes data.
 - **[ai-fundamentals-simple](https://github.com/bordenet/ai-fundamentals-simple)** - Practical AI fundamentals guide for engineering leaders.
