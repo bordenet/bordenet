@@ -19,7 +19,8 @@ Engineering leader and builder based in Seattle. I scale teams, build platforms,
 - **[ai-fundamentals-simple](https://github.com/bordenet/ai-fundamentals-simple)** - Practical AI fundamentals guide for engineering leaders.
 
 ### Tools
-- **[product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant)** - AI-powered PRD builder and reviewer.
+- **[product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant)** - AI-powered PRD [builder and reviewer](https://bordenet.github.io/product-requirements-assistant/).
+- **[one-pager](https://github.com/bordenet/one-pager)** - One-pager document [builder](https://bordenet.github.io/one-pager/) using constructive adversarial interaction between competing LLMs.
 - **[pr-faq-validator](https://github.com/bordenet/pr-faq-validator)** - Go-based tool for parsing and scoring PR-FAQs.
 - **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** - Fast scanner for detecting secrets in source control.
 - **[scripts](https://github.com/bordenet/scripts)** - Purpose-built utilities and tools.
