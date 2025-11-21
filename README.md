@@ -13,14 +13,13 @@ Engineering leader and builder based in Seattle. I scale teams, build platforms,
 - **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** - Go-based solver for Apple News Quartile puzzles.
 
 ### Writing
-- **[bloginator](https://github.com/bordenet/bloginator)** - RAG-based content generator that uses your existing writing as source material. Creates new articles grounded in your voice and ideas, not generic AI slop.
 - **[Engineering_Culture](https://github.com/bordenet/Engineering_Culture)** - Essays on engineering leadership, velocity, and software craft.
 - **[Transformation_Case_Studies](https://github.com/bordenet/Transformation_Case_Studies)** - Engineering and organizational transformation case studies with outcomes data.
 - **[ai-fundamentals-simple](https://github.com/bordenet/ai-fundamentals-simple)** - Practical AI fundamentals guide for engineering leaders.
 
 ### Tools
-- **[product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant)** - AI-powered PRD [builder and reviewer](https://bordenet.github.io/product-requirements-assistant/).
-- **[one-pager](https://github.com/bordenet/one-pager)** - One-pager document [builder](https://bordenet.github.io/one-pager/) using constructive adversarial interaction between competing LLMs.
+- **[product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant)** - PRD [builder](https://bordenet.github.io/product-requirements-assistant/) using constructive adversarial interaction between competing LLMs.
+- **[one-pager](https://github.com/bordenet/one-pager)** - One-pager document [builder](https://bordenet.github.io/one-pager/) using constructive adversarial interaction between competing LLMs, much like product-requirements-assistant.
 - **[pr-faq-validator](https://github.com/bordenet/pr-faq-validator)** - Go-based tool for parsing and scoring PR-FAQs.
 - **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** - Fast scanner for detecting secrets in source control.
 - **[scripts](https://github.com/bordenet/scripts)** - Purpose-built utilities and tools.
