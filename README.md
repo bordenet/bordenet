@@ -23,7 +23,7 @@ Building tools and writing about engineering leadership, operational excellence,
 - [RecipeArchive](https://github.com/bordenet/RecipeArchive) - Multi-platform recipe manager, testing ground for AI-assisted development
 - [identity-deep-dive](https://github.com/bordenet/identity-deep-dive) - OAuth2/OIDC authorization server with security scanners
 - [codebase-reviewer](https://github.com/bordenet/codebase-reviewer) - AI-powered codebase analysis for systematic code review
-- [apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver) - Go-based solver for Apple News Quartile puzzles
+- [cquartile-solver](https://github.com/bordenet/apple-quartile-solver) - Go-based solver for Apple News Quartile puzzles
 
 ### Tools
 - [product-requirements-assistant](https://bordenet.github.io/product-requirements-assistant/) - PRD builder using adversarial LLM interaction
