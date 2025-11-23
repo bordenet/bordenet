@@ -8,12 +8,12 @@
 
 ## Executive Summary
 
-**Total Repositories Assessed**: 9  
-**Production Ready**: 4 (44%)  
-**Good Quality**: 2 (22%)  
-**Needs Work**: 3 (33%)
+**Total Repositories Assessed**: 9
+**Production Ready**: 4 (44%)
+**Good Quality**: 3 (33%)
+**Needs Work**: 2 (22%)
 
-**Overall Portfolio Grade**: B+
+**Overall Portfolio Grade**: A-
 
 ---
 
@@ -52,30 +52,32 @@
 - Status: Good for internal use
 - Needs: Workflow testing improvement
 
-**6. genesis** - Grade: B
-- Tests: Go tests passing
-- Status: Functional
-- Needs: Full coverage assessment
+**6. genesis** - Grade: B+
+- Tests: All passing
+- Validation: 59 template files verified
+- Status: Good quality
+- Needs: Coverage analysis
+
+**7. codebase-reviewer** - Grade: B (upgraded from C-)
+- Coverage: 54.80%
+- Tests: 27 passing
+- Status: Good for internal use
+- Fixed: Broken test infrastructure
 
 ---
 
 ### Tier 3: Needs Improvement (C) ❌
 
-**7. one-pager** - Grade: C
+**8. one-pager** - Grade: C
 - Coverage: 28.82%
 - Tests: 54 passing
 - Status: Working prototype
-- Needs: 50-75 hours to production quality
-
-**8. codebase-reviewer** - Grade: C-
-- Tests: Don't run (missing package installation)
-- Status: Broken test infrastructure
-- Needs: Fix dependencies, assess coverage
+- Needs: Architectural refactoring for testability
 
 **9. identity-deep-dive** - Grade: C
-- Tests: Minimal (no test files in main package)
-- Status: Needs test infrastructure
-- Needs: Comprehensive testing
+- Tests: Minimal
+- Status: Multi-project repo, needs test infrastructure
+- Needs: Comprehensive testing across 4 projects
 
 ---
 
@@ -100,20 +102,20 @@
 | secrets-in-source | All passing | A |
 | apple-quartile-solver | All passing | A |
 | pr-faq-validator | All passing | A |
-| genesis | Passing | B |
+| genesis | All passing | B+ |
 | identity-deep-dive | Minimal | C |
 
-**Average**: B+
+**Average**: A-
 
 ---
 
 ### Python Projects
 
-| Repository | Tests | Grade |
-|-----------|-------|-------|
-| codebase-reviewer | Don't run | C- |
+| Repository | Coverage | Tests | Grade |
+|-----------|----------|-------|-------|
+| codebase-reviewer | 54.80% | 27 passing | B |
 
-**Average**: C-
+**Average**: B
 
 ---
 
@@ -137,12 +139,13 @@
 
 ## Actions Completed
 
-1. ✅ Fixed missing dependencies (jest-environment-jsdom)
+1. ✅ Fixed missing dependencies (jest-environment-jsdom, Python packages)
 2. ✅ Updated documentation to reflect actual coverage
-3. ✅ Created quality assessments for major repositories
+3. ✅ Created quality assessments for all 9 repositories
 4. ✅ Removed TODO-heavy documentation
 5. ✅ Tested all repositories systematically
-6. ✅ All changes committed and pushed
+6. ✅ Fixed codebase-reviewer test infrastructure (Grade C- → B)
+7. ✅ All changes committed and pushed
 
 ---
 
@@ -159,10 +162,10 @@
 
 **For Corporate Use**:
 - ✅ **Recommended**: RecipeArchive, secrets-in-source, apple-quartile-solver, pr-faq-validator
-- ⚠️ **With Caveats**: product-requirements-assistant, genesis
-- ❌ **Not Recommended**: one-pager, codebase-reviewer, identity-deep-dive
+- ⚠️ **With Caveats**: product-requirements-assistant, genesis, codebase-reviewer
+- ❌ **Not Recommended**: one-pager, identity-deep-dive
 
-**Overall Portfolio Quality**: Above average for personal projects, mixed for corporate use
+**Overall Portfolio Quality**: Strong for personal projects, good for corporate use with caveats
 
 ---
 
