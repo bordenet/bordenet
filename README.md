@@ -1,6 +1,6 @@
 # Matt Bordenet
 
-Engineering leader with 26+ years building platforms and leading teams at Amazon, Warner Bros. Discovery (iStreamPlanet), Stash Financial, and Telepathy.AI. Based in Seattle.
+Engineering leader with 26+ years building platforms and leading teams at Amazon, Warner Bros. Discovery (iStreamPlanet), Stash Financial, Telepathy.AI, and now CallBox. Based in Seattle.
 
 ## What I Do
 
