@@ -6,6 +6,7 @@ Engineering leader with 26+ years building platforms and leading teams at Amazon
 
 I rebuild fragile systems into reliable platforms and transform engineering cultures from reactive to proactive. Recent work includes:
 
+- **Call Box (Engineering Director):** Building a conversational AI for automotive dealerships atop a stable, profitable business and modernizing the company's engineering culture and processes
 - **Telepathy.AI (VP Engineering):** Scaled conversational AI infrastructure from prototype to production, supporting 50M+ monthly conversations across global operations
 - **Stash Financial (VP Engineering):** Reduced platform downtime 60% while maintaining SOC-2/FINRA/FDIC compliance for 2M+ users
 - **iStreamPlanet (Director):** Rebuilt streaming platform to 99.99% uptime, scaled to 180+ live channels, selected as Warner Bros. Discovery's go-forward technology post-acquisition
