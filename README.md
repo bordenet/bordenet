@@ -35,7 +35,7 @@ Building tools and writing about engineering leadership, operational excellence,
 - **[genesis](https://github.com/bordenet/genesis)** - Template system for creating AI-assisted workflow applications with standardized structure, quality gates, and automated deployment. 95.7% test coverage.
 - **[product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant)** - PRD [builder](https://bordenet.github.io/product-requirements-assistant/) using adversarial interaction between competing LLMs. Built with Genesis.
 - **[one-pager](https://github.com/bordenet/one-pager)** - One-pager document [builder](https://bordenet.github.io/one-pager/) using adversarial interaction between competing LLMs. Built with Genesis.
-- **[GameWiki](https://github.com/bordenet/GameWiki)** - Interactive game knowledge base and wiki builder. Built with Genesis.
+- **[GameWiki](https://github.com/bordenet/GameWiki)** - Interactive game knowledge base and wiki [builder](https://bordenet.github.io/GameWiki/). Built with Genesis.
 - **[pr-faq-validator](https://github.com/bordenet/pr-faq-validator)** - Go-based tool for parsing and scoring PR-FAQs.
 - **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** - Fast scanner for detecting secrets in source control.
 - **[scripts](https://github.com/bordenet/scripts)** - Purpose-built utilities and tools.
