@@ -41,12 +41,17 @@ Building tools and writing about engineering leadership, operational excellence,
 - **[Engineering_Culture](https://github.com/bordenet/Engineering_Culture)** - Essays on engineering leadership, velocity, and software craft.
 - **[ai-fundamentals-simple](https://github.com/bordenet/ai-fundamentals-simple)** - Practical AI fundamentals guide for engineering leaders.
 
-### Tools
-- **[genesis](https://github.com/bordenet/genesis)** - Template system for creating AI-assisted workflow applications with standardized structure, quality gates, and automated deployment. 95.7% test coverage.
-- **[architecture-decision-record](https://github.com/bordenet/architecture-decision-record)** - ADR [assistant](https://bordenet.github.io/architecture-decision-record/) using 3-phase adversarial workflow (Draft → Review → Synthesis). 100% client-side, privacy-first. Built with Genesis.
-- **[product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant)** - PRD [builder](https://bordenet.github.io/product-requirements-assistant/) using adversarial interaction between competing LLMs. Built with Genesis.
-- **[one-pager](https://github.com/bordenet/one-pager)** - One-pager document [builder](https://bordenet.github.io/one-pager/) using adversarial interaction between competing LLMs. Built with Genesis.
-- **[GameWiki](https://github.com/bordenet/GameWiki)** - Interactive game knowledge base and wiki [builder](https://bordenet.github.io/GameWiki/). Built with Genesis.
+### Genesis Ecosystem
+AI-assisted workflow applications built on a common template system with standardized quality gates and automated deployment.
+
+- **[genesis](https://github.com/bordenet/genesis)** - Template system for creating AI-assisted workflow applications. 95.7% test coverage.
+- **[architecture-decision-record](https://github.com/bordenet/architecture-decision-record)** - ADR [assistant](https://bordenet.github.io/architecture-decision-record/) using 3-phase adversarial workflow (Draft → Review → Synthesis).
+- **[product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant)** - PRD [builder](https://bordenet.github.io/product-requirements-assistant/) using adversarial LLM interaction.
+- **[one-pager](https://github.com/bordenet/one-pager)** - One-pager document [builder](https://bordenet.github.io/one-pager/) using adversarial LLM interaction.
+- **[power-statement-assistant](https://github.com/bordenet/power-statement-assistant)** - Power statement [builder](https://bordenet.github.io/power-statement-assistant/) using adversarial LLM interaction.
+- **[GameWiki](https://github.com/bordenet/GameWiki)** - Interactive game knowledge base and wiki [builder](https://bordenet.github.io/GameWiki/).
+
+### Standalone Tools
 - **[pr-faq-validator](https://github.com/bordenet/pr-faq-validator)** - Go-based tool for parsing and scoring PR-FAQs.
 - **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** - Fast scanner for detecting secrets in source control.
 - **[scripts](https://github.com/bordenet/scripts)** - Purpose-built utilities and tools.
