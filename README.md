@@ -18,7 +18,7 @@ Building tools and writing about engineering leadership, operational excellence,
 
 ## Featured Projects
 
-### Production-Ready Tools (70%+ Test Coverage)
+### Ready-to-Use Tools
 
 **AI-Assisted Development**
 - **[genesis](https://github.com/bordenet/genesis)** - Template system for creating AI-assisted workflow applications. 95.7% test coverage, comprehensive quality gates, automated deployment.
