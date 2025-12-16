@@ -19,14 +19,14 @@ Building tools and writing about engineering leadership, operational excellence,
 ## Projects
 
 ### Genesis Ecosystem
-AI-assisted workflow applications built on a common template system with standardized quality gates and automated deployment.
+AI-assisted workflow applications using adversarial LLM interaction, built on a common template system with standardized quality gates and automated deployment.
 
 - **[genesis](https://github.com/bordenet/genesis)** - Template system for creating AI-assisted workflow applications.
-- **[architecture-decision-record](https://github.com/bordenet/architecture-decision-record)** - ADR [assistant](https://bordenet.github.io/architecture-decision-record/) using 3-phase adversarial workflow (Draft → Review → Synthesis).
-- **[product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant)** - PRD [builder](https://bordenet.github.io/product-requirements-assistant/) using adversarial LLM interaction.
-- **[one-pager](https://github.com/bordenet/one-pager)** - One-pager document [builder](https://bordenet.github.io/one-pager/) using adversarial LLM interaction.
-- **[power-statement-assistant](https://github.com/bordenet/power-statement-assistant)** - Power statement [builder](https://bordenet.github.io/power-statement-assistant/) using adversarial LLM interaction.
-- **[GameWiki](https://github.com/bordenet/GameWiki)** - Interactive game knowledge base and wiki [builder](https://bordenet.github.io/GameWiki/).
+- **[architecture-decision-record](https://github.com/bordenet/architecture-decision-record)** - ADR assistant using 3-phase workflow (Draft → Review → Synthesis). [try it!](https://bordenet.github.io/architecture-decision-record/)
+- **[product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant)** - PRD builder. [try it!](https://bordenet.github.io/product-requirements-assistant/)
+- **[one-pager](https://github.com/bordenet/one-pager)** - One-pager document builder. [try it!](https://bordenet.github.io/one-pager/)
+- **[power-statement-assistant](https://github.com/bordenet/power-statement-assistant)** - Power statement builder. [try it!](https://bordenet.github.io/power-statement-assistant/)
+- **[GameWiki](https://github.com/bordenet/GameWiki)** - Interactive game knowledge base and wiki builder. [try it!](https://bordenet.github.io/GameWiki/)
 
 ### Tools
 - **[codebase-reviewer](https://github.com/bordenet/codebase-reviewer)** - AI-powered codebase analysis for systematic code review and onboarding.
