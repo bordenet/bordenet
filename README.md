@@ -1,6 +1,6 @@
 # Matt Bordenet
 
-Engineering leader with 26+ years building platforms and leading teams at Amazon, Warner Bros. Discovery (iStreamPlanet), Stash Financial, Telepathy.AI, and now [**CallBox**](https://callbox.com). Working on [Cari](https://www.carwars.com/home/a/cari-phone-assist/), the AI phone assistant. Based in Seattle. **_We are hiring-- seeking a Senior Software engineer._**
+Engineering leader with 26+ years building platforms and leading teams at Amazon, Warner Bros. Discovery (iStreamPlanet), Stash Financial, Telepathy.AI, and now [**CallBox**](https://callbox.com). Working on [Cari](https://www.carwars.com/home/a/cari-phone-assist/), the AI phone assistant. Based in Seattle. **_We are hiring-- seeking a Senior Software Engineer._**
 
 ## What I Do
 
