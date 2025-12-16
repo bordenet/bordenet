@@ -16,45 +16,33 @@ I rebuild fragile systems into reliable platforms and transform engineering cult
 
 Building tools and writing about engineering leadership, operational excellence, and AI-assisted development. All repos are working code or real-world case studies.
 
-## Featured Projects
-
-### Ready-to-Use Tools
-
-**AI-Assisted Development**
-- **[genesis](https://github.com/bordenet/genesis)** - Template system for creating AI-assisted workflow applications. 95.7% test coverage, comprehensive quality gates, automated deployment.
-- **[architecture-decision-record](https://github.com/bordenet/architecture-decision-record)** - ADR [assistant](https://bordenet.github.io/architecture-decision-record/) using 3-phase adversarial workflow (Draft → Review → Synthesis). 100% client-side, privacy-first. Built with Genesis.
-- **[product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant)** - PRD [builder](https://bordenet.github.io/product-requirements-assistant/) using adversarial LLM interaction. Built with Genesis.
-- **[one-pager](https://github.com/bordenet/one-pager)** - One-pager document [builder](https://bordenet.github.io/one-pager/) using adversarial LLM interaction. 82% test coverage. Built with Genesis.
-- **[codebase-reviewer](https://github.com/bordenet/codebase-reviewer)** - AI-powered codebase analysis for systematic code review and onboarding. 71% test coverage.
-
-**Security & Development Tools**
-- **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** - Fast concurrent scanner for detecting secrets in source control.
-- **[pr-faq-validator](https://github.com/bordenet/pr-faq-validator)** - Go-based tool for parsing and scoring PR-FAQs. 76% test coverage.
-- **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** - Multi-interface solver for Apple News Quartile puzzles.
-
-**Applications**
-- **[RecipeArchive](https://github.com/bordenet/RecipeArchive)** - Full-stack recipe manager with web, iOS, and Android support. Multi-language monorepo.
-- **[identity-deep-dive](https://github.com/bordenet/identity-deep-dive)** - OAuth2/OIDC authorization server with security scanners and multi-tenant session management.
-
-### Writing & Case Studies
-- **[Transformation_Case_Studies](https://github.com/bordenet/Transformation_Case_Studies)** - Engineering and organizational transformation case studies with outcomes data.
-- **[Engineering_Culture](https://github.com/bordenet/Engineering_Culture)** - Essays on engineering leadership, velocity, and software craft.
-- **[ai-fundamentals-simple](https://github.com/bordenet/ai-fundamentals-simple)** - Practical AI fundamentals guide for engineering leaders.
+## Projects
 
 ### Genesis Ecosystem
 AI-assisted workflow applications built on a common template system with standardized quality gates and automated deployment.
 
-- **[genesis](https://github.com/bordenet/genesis)** - Template system for creating AI-assisted workflow applications. 95.7% test coverage.
+- **[genesis](https://github.com/bordenet/genesis)** - Template system for creating AI-assisted workflow applications.
 - **[architecture-decision-record](https://github.com/bordenet/architecture-decision-record)** - ADR [assistant](https://bordenet.github.io/architecture-decision-record/) using 3-phase adversarial workflow (Draft → Review → Synthesis).
 - **[product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant)** - PRD [builder](https://bordenet.github.io/product-requirements-assistant/) using adversarial LLM interaction.
 - **[one-pager](https://github.com/bordenet/one-pager)** - One-pager document [builder](https://bordenet.github.io/one-pager/) using adversarial LLM interaction.
 - **[power-statement-assistant](https://github.com/bordenet/power-statement-assistant)** - Power statement [builder](https://bordenet.github.io/power-statement-assistant/) using adversarial LLM interaction.
 - **[GameWiki](https://github.com/bordenet/GameWiki)** - Interactive game knowledge base and wiki [builder](https://bordenet.github.io/GameWiki/).
 
-### Standalone Tools
+### Tools
+- **[codebase-reviewer](https://github.com/bordenet/codebase-reviewer)** - AI-powered codebase analysis for systematic code review and onboarding.
+- **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** - Fast concurrent scanner for detecting secrets in source control.
 - **[pr-faq-validator](https://github.com/bordenet/pr-faq-validator)** - Go-based tool for parsing and scoring PR-FAQs.
-- **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** - Fast scanner for detecting secrets in source control.
+- **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** - Multi-interface solver for Apple News Quartile puzzles.
 - **[scripts](https://github.com/bordenet/scripts)** - Purpose-built utilities and tools.
+
+### Applications
+- **[RecipeArchive](https://github.com/bordenet/RecipeArchive)** - Full-stack recipe manager with web, iOS, and Android support.
+- **[identity-deep-dive](https://github.com/bordenet/identity-deep-dive)** - OAuth2/OIDC authorization server with security scanners and multi-tenant session management.
+
+### Writing & Case Studies
+- **[Transformation_Case_Studies](https://github.com/bordenet/Transformation_Case_Studies)** - Engineering and organizational transformation case studies with outcomes data.
+- **[Engineering_Culture](https://github.com/bordenet/Engineering_Culture)** - Essays on engineering leadership, velocity, and software craft.
+- **[ai-fundamentals-simple](https://github.com/bordenet/ai-fundamentals-simple)** - Practical AI fundamentals guide for engineering leaders.
 
 ## Contact
 
