@@ -27,13 +27,16 @@ AI-assisted workflow applications using adversarial LLM interaction, built on a 
 - **[one-pager](https://github.com/bordenet/one-pager)** - One-pager document builder. [try it!](https://bordenet.github.io/one-pager/)
 - **[power-statement-assistant](https://github.com/bordenet/power-statement-assistant)** - Power statement builder. [try it!](https://bordenet.github.io/power-statement-assistant/)
 - **[GameWiki](https://github.com/bordenet/GameWiki)** - Interactive game knowledge base and wiki builder. [try it!](https://bordenet.github.io/GameWiki/)
+- **[strategic-proposal](https://github.com/bordenet/strategic-proposal)** - Strategic proposal generator with pain-point analysis. [try it!](https://bordenet.github.io/strategic-proposal/)
 
 ### Tools
+- **[bloginator](https://github.com/bordenet/bloginator)** - Blog generation using RAG to synthesize content from your existing writing corpus. Hybrid semantic search (ChromaDB + BM25), pattern-based slop detection, voice matching. Python CLI, Streamlit UI, FastAPI server. Supports Ollama, OpenAI, and Anthropic.
 - **[codebase-reviewer](https://github.com/bordenet/codebase-reviewer)** - AI-powered codebase analysis for systematic code review and onboarding.
 - **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** - Fast concurrent scanner for detecting secrets in source control.
 - **[pr-faq-validator](https://github.com/bordenet/pr-faq-validator)** - Go-based tool for parsing and scoring PR-FAQs.
 - **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** - Multi-interface solver for Apple News Quartile puzzles.
-- **[scripts](https://github.com/bordenet/scripts)** - Purpose-built utilities and tools.
+- **[ZoomBackgroundMagick](https://github.com/bordenet/ZoomBackgroundMagick)** - Shell scripts using ffmpeg to convert panoramic images into scrolling video backgrounds and create slideshows for Zoom.
+- **[scripts](https://github.com/bordenet/scripts)** - Miscellaneous utilities and automation scripts.
 
 ### Applications
 - **[RecipeArchive](https://github.com/bordenet/RecipeArchive)** - Full-stack recipe manager with web, iOS, and Android support.
