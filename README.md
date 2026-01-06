@@ -24,6 +24,7 @@ AI-assisted workflow applications using adversarial LLM interaction, built on a 
 - **[genesis](https://github.com/bordenet/genesis)** - Template system for creating AI-assisted workflow applications.
 - **[architecture-decision-record](https://github.com/bordenet/architecture-decision-record)** - ADR assistant using 3-phase workflow (Draft → Review → Synthesis). [try it!](https://bordenet.github.io/architecture-decision-record/)
 - **[product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant)** - PRD builder. [try it!](https://bordenet.github.io/product-requirements-assistant/)
+- **[pr-faq-assistant](https://github.com/bordenet/pr-faq-assistant)** - PR-FAQ document builder using adversarial AI workflow for Amazon-style press releases. [try it!](https://bordenet.github.io/pr-faq-assistant/)
 - **[one-pager](https://github.com/bordenet/one-pager)** - One-pager document builder. [try it!](https://bordenet.github.io/one-pager/)
 - **[power-statement-assistant](https://github.com/bordenet/power-statement-assistant)** - Power statement builder. [try it!](https://bordenet.github.io/power-statement-assistant/)
 - **[GameWiki](https://github.com/bordenet/GameWiki)** - Interactive game knowledge base and wiki builder. [try it!](https://bordenet.github.io/GameWiki/)
