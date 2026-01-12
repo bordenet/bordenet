@@ -50,4 +50,17 @@ AI-assisted workflow applications using adversarial LLM interaction, built on a 
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/mattbordenet/)
+<p align="left">
+<a href="https://github.com/bordenet" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mattbordenet/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0A66C2"/>
+</a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bordenet/bordenet/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bordenet/bordenet/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bordenet/bordenet/output/github-contribution-grid-snake.svg" />
+</picture>
