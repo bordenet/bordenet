@@ -63,13 +63,13 @@ AI-assisted workflow applications using adversarial LLM interaction, built on a 
 </p>
 
 <p align="center">
-<span title="Seattle">🏙️☕🏔️</span> &nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;
-<span title="Vibe coding">💻</span> &nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;
-<a href="https://www.goodreads.com/review/list/38562860-matt-bordenet?shelf=professional" title="Reading">📚</a> &nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;
-<span title="Hiking the PNW">🥾</span> &nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;
-<span title="International travel">🗺️</span> &nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;
-<span title="Football">🏈</span> &nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;
-<span title="Seahawks">🦅</span> &nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;
-<span title="Mariners">⚾</span> &nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;
+<span title="Seattle">🏙️☕🏔️</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span title="Vibe coding">💻</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.goodreads.com/review/list/38562860-matt-bordenet?shelf=professional" title="Reading">📚</a> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span title="Hiking the PNW">🥾</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span title="International travel">🗺️</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span title="Football">🏈</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span title="Seahawks">🦅</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span title="Mariners">⚾</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;&nbsp;&nbsp;
 <span title="English football (EPL/UCL)">⚽</span>
 </p>
