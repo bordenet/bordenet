@@ -69,5 +69,7 @@ AI-assisted workflow applications using adversarial LLM interaction, built on a 
 <span title="Hiking the PNW">🥾</span> &nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;
 <span title="International travel">🗺️</span> &nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;
 <span title="Football">🏈</span> &nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;
+<span title="Seahawks">🦅</span> &nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;
+<span title="Mariners">⚾</span> &nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;
 <span title="English football (EPL/UCL)">⚽</span>
 </p>
