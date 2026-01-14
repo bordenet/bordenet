@@ -55,10 +55,13 @@ AI-assisted workflow applications using adversarial LLM interaction, built on a 
 </p>
 
 <p align="left">
-<a href="https://github.com/bordenet" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=white"/>
-</a>
 <a href="https://www.linkedin.com/in/mattbordenet/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="https://www.facebook.com/matt.bordenet" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-0d1117?style=flat&logo=facebook&logoColor=1877F2"/>
+</a>
+<a href="https://www.instagram.com/mbordenet/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0d1117?style=flat&logo=instagram&logoColor=E4405F"/>
 </a>
 </p>
