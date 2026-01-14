@@ -68,7 +68,7 @@ AI-assisted workflow applications using adversarial LLM interaction, built on a 
 <span title="Seattle">🏙️☕🏔️</span> &nbsp;&nbsp;·&nbsp;&nbsp;
 <span title="Vibe coding">💻</span> &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://www.goodreads.com/review/list/38562860-matt-bordenet?shelf=professional" title="Reading">📚</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<span title="Hiking the PNW">🌲🥾🏔️</span> &nbsp;&nbsp;·&nbsp;&nbsp;
+<span title="Hiking the PNW">🌲🥾</span> &nbsp;&nbsp;·&nbsp;&nbsp;
 <span title="International travel">✈️</span> &nbsp;&nbsp;·&nbsp;&nbsp;
 <span title="Football (NFL/Seahawks/UW Huskies)">🏈🦅🐺</span> &nbsp;&nbsp;·&nbsp;&nbsp;
 <span title="Mariners">⚾</span> &nbsp;&nbsp;·&nbsp;&nbsp;
