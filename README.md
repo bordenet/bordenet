@@ -48,7 +48,11 @@ AI-assisted workflow applications using adversarial LLM interaction, built on a 
 - **[Engineering_Culture](https://github.com/bordenet/Engineering_Culture)** - Essays on engineering leadership, velocity, and software craft.
 - **[ai-fundamentals-simple](https://github.com/bordenet/ai-fundamentals-simple)** - Practical AI fundamentals guide for engineering leaders.
 
-## Contact
+## Connect
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bordenet/bordenet/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
 
 <p align="left">
 <a href="https://github.com/bordenet" target="_blank">
@@ -58,9 +62,3 @@ AI-assisted workflow applications using adversarial LLM interaction, built on a 
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0A66C2"/>
 </a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bordenet/bordenet/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bordenet/bordenet/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bordenet/bordenet/output/github-contribution-grid-snake.svg" />
-</picture>
