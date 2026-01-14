@@ -51,16 +51,6 @@ AI-assisted workflow applications using adversarial LLM interaction, built on a 
 ---
 
 <p align="center">
-<span title="Seattle">📍</span> &nbsp;
-<span title="Hiking the PNW">🥾</span> &nbsp;
-<span title="Vibe coding">💻</span> &nbsp;
-<a href="https://www.goodreads.com/review/list/38562860-matt-bordenet?shelf=professional" title="Reading">📚</a> &nbsp;
-<span title="International travel">🗺️</span> &nbsp;
-<span title="Football">🏈</span> &nbsp;
-<span title="English football (EPL/UCL)">⚽</span>
-</p>
-
-<p align="center">
 <a href="https://www.linkedin.com/in/mattbordenet/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/>
 </a> &nbsp;
@@ -70,4 +60,14 @@ AI-assisted workflow applications using adversarial LLM interaction, built on a 
 <a href="https://www.instagram.com/mbordenet/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="20"/>
 </a>
+</p>
+
+<p align="center">
+<span title="Seattle">📍</span> &nbsp;
+<span title="Hiking the PNW">🥾</span> &nbsp;
+<span title="Vibe coding">💻</span> &nbsp;
+<a href="https://www.goodreads.com/review/list/38562860-matt-bordenet?shelf=professional" title="Reading">📚</a> &nbsp;
+<span title="International travel">🗺️</span> &nbsp;
+<span title="Football">🏈</span> &nbsp;
+<span title="English football (EPL/UCL)">⚽</span>
 </p>
