@@ -50,9 +50,11 @@ AI-assisted workflow applications using adversarial LLM interaction, built on a 
 
 ## Connect
 
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/bordenet/bordenet/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
+-->
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mattbordenet/" target="_blank">
