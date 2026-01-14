@@ -50,18 +50,18 @@ AI-assisted workflow applications using adversarial LLM interaction, built on a 
 
 ---
 
-<p align="center" style="color: #999;">
-📍 Seattle <span style="color: #666;">|</span> Hiking the PNW <span style="color: #666;">|</span> 🏈 Football <span style="color: #666;">|</span> ⚽ English football (EPL/UCL) <span style="color: #666;">|</span> 🗺️ International travel <span style="color: #666;">|</span> 💻 Vibe coding <span style="color: #666;">|</span> 📚 <a href="https://www.goodreads.com/review/list/38562860-matt-bordenet?shelf=professional">Reading</a>
+<p align="center">
+<span title="Seattle">📍</span> &nbsp;
+<span title="Hiking the PNW">🥾</span> &nbsp;
+<span title="Football">🏈</span> &nbsp;
+<span title="English football (EPL/UCL)">⚽</span> &nbsp;
+<span title="International travel">🗺️</span> &nbsp;
+<span title="Vibe coding">💻</span> &nbsp;
+<a href="https://www.goodreads.com/review/list/38562860-matt-bordenet?shelf=professional" title="Reading">📚</a>
 </p>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/mattbordenet/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat&amp;logo=linkedin&amp;logoColor=0A66C2"/>
-</a>
-<a href="https://www.facebook.com/matt.bordenet" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-0d1117?style=flat&amp;logo=facebook&amp;logoColor=1877F2"/>
-</a>
-<a href="https://www.instagram.com/mbordenet/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0d1117?style=flat&amp;logo=instagram&amp;logoColor=E4405F"/>
-</a>
+<p align="center">
+<a href="https://www.linkedin.com/in/mattbordenet/" target="_blank" title="LinkedIn">💼</a> &nbsp;
+<a href="https://www.facebook.com/matt.bordenet" target="_blank" title="Facebook">📘</a> &nbsp;
+<a href="https://www.instagram.com/mbordenet/" target="_blank" title="Instagram">📷</a>
 </p>
