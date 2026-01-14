@@ -48,13 +48,10 @@ AI-assisted workflow applications using adversarial LLM interaction, built on a 
 - **[Engineering_Culture](https://github.com/bordenet/Engineering_Culture)** - Essays on engineering leadership, velocity, and software craft.
 - **[ai-fundamentals-simple](https://github.com/bordenet/ai-fundamentals-simple)** - Practical AI fundamentals guide for engineering leaders.
 
-## Connect
+---
 
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bordenet/bordenet/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
--->
+📍 Seattle | Hiking the PNW
+🏈 Football | ⚽ English football (EPL/UCL) | 🗺️ International travel | 💻 Vibe coding | 📚 [Reading](https://www.goodreads.com/review/list/38562860-matt-bordenet?shelf=professional)
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mattbordenet/" target="_blank">
