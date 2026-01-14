@@ -63,13 +63,13 @@ AI-assisted workflow applications using adversarial LLM interaction, built on a 
 </p>
 
 <p align="center">
-<span title="Seattle">🏙️☕🏔️</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;&nbsp;&nbsp;
-<span title="Vibe coding">💻</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.goodreads.com/review/list/38562860-matt-bordenet?shelf=professional" title="Reading">📚</a> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;&nbsp;&nbsp;
-<span title="Hiking the PNW">🥾</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;&nbsp;&nbsp;
-<span title="International travel">🗺️</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;&nbsp;&nbsp;
-<span title="Football">🏈</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;&nbsp;&nbsp;
-<span title="Seahawks">🦅</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;&nbsp;&nbsp;
-<span title="Mariners">⚾</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666;">|</span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span title="Seattle">🏙️☕🏔️</span> &nbsp;&nbsp;&nbsp;&nbsp;<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1' height='12'%3E%3Cline x1='0' y1='2' x2='0' y2='10' stroke='%23e0e0e0' stroke-width='1'/%3E%3C/svg%3E" alt="|"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<span title="Vibe coding">💻</span> &nbsp;&nbsp;&nbsp;&nbsp;<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1' height='12'%3E%3Cline x1='0' y1='2' x2='0' y2='10' stroke='%23e0e0e0' stroke-width='1'/%3E%3C/svg%3E" alt="|"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.goodreads.com/review/list/38562860-matt-bordenet?shelf=professional" title="Reading">📚</a> &nbsp;&nbsp;&nbsp;&nbsp;<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1' height='12'%3E%3Cline x1='0' y1='2' x2='0' y2='10' stroke='%23e0e0e0' stroke-width='1'/%3E%3C/svg%3E" alt="|"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<span title="Hiking the PNW">🥾</span> &nbsp;&nbsp;&nbsp;&nbsp;<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1' height='12'%3E%3Cline x1='0' y1='2' x2='0' y2='10' stroke='%23e0e0e0' stroke-width='1'/%3E%3C/svg%3E" alt="|"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<span title="International travel">🗺️</span> &nbsp;&nbsp;&nbsp;&nbsp;<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1' height='12'%3E%3Cline x1='0' y1='2' x2='0' y2='10' stroke='%23e0e0e0' stroke-width='1'/%3E%3C/svg%3E" alt="|"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<span title="Football">🏈</span> &nbsp;&nbsp;&nbsp;&nbsp;<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1' height='12'%3E%3Cline x1='0' y1='2' x2='0' y2='10' stroke='%23e0e0e0' stroke-width='1'/%3E%3C/svg%3E" alt="|"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<span title="Seahawks">🦅</span> &nbsp;&nbsp;&nbsp;&nbsp;<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1' height='12'%3E%3Cline x1='0' y1='2' x2='0' y2='10' stroke='%23e0e0e0' stroke-width='1'/%3E%3C/svg%3E" alt="|"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<span title="Mariners">⚾</span> &nbsp;&nbsp;&nbsp;&nbsp;<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1' height='12'%3E%3Cline x1='0' y1='2' x2='0' y2='10' stroke='%23e0e0e0' stroke-width='1'/%3E%3C/svg%3E" alt="|"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <span title="English football (EPL/UCL)">⚽</span>
 </p>
