@@ -50,8 +50,8 @@ AI-assisted workflow applications using adversarial LLM interaction, built on a 
 
 ---
 
-📍 Seattle <span style="color: #999;">|</span> Hiking the PNW
-🏈 Football <span style="color: #999;">|</span> ⚽ English football (EPL/UCL) <span style="color: #999;">|</span> 🗺️ International travel <span style="color: #999;">|</span> 💻 Vibe coding <span style="color: #999;">|</span> 📚 [Reading](https://www.goodreads.com/review/list/38562860-matt-bordenet?shelf=professional)
+<span style="color: #999;">📍 Seattle <span style="color: #666;">|</span> Hiking the PNW
+🏈 Football <span style="color: #666;">|</span> ⚽ English football (EPL/UCL) <span style="color: #666;">|</span> 🗺️ International travel <span style="color: #666;">|</span> 💻 Vibe coding <span style="color: #666;">|</span> 📚 [Reading](https://www.goodreads.com/review/list/38562860-matt-bordenet?shelf=professional)</span>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mattbordenet/" target="_blank">
