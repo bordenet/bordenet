@@ -10,7 +10,7 @@ I rebuild fragile systems into reliable platforms and transform engineering cult
 - **Telepathy.AI (VP Engineering):** Scaled conversational AI infrastructure from prototype to production, supporting 50M+ monthly conversations across global operations
 - **Stash Financial (VP Engineering):** Reduced platform downtime 60% while maintaining SOC-2/FINRA/FDIC compliance for 2M+ users
 - **iStreamPlanet (Director):** Rebuilt streaming platform to 99.99% uptime, scaled to 180+ live channels, selected as Warner Bros. Discovery's go-forward technology post-acquisition
-- **Amazon (Software Development Manager):** Built video streaming infrastructure for Amazon Instant Video
+- **Amazon (Software Development Manager):** Led video playback API teams for Amazon Instant Video during a time of rapid expansion
 
 ## Current Focus
 
