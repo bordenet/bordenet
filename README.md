@@ -27,7 +27,7 @@ AI-assisted workflow applications using adversarial LLM interaction, built on **
 | [architecture-decision-record](https://github.com/bordenet/architecture-decision-record) | [ADR](https://adr.github.io/) assistant with 3-phase workflow (Draft → Review → Synthesis) | [▶️](https://bordenet.github.io/architecture-decision-record/) |
 | [pr-faq-assistant](https://github.com/bordenet/pr-faq-assistant) | Amazon-style [PR-FAQ](https://www.amazon.jobs/en/landing_pages/working-backwards) builder with adversarial AI review | [▶️](https://bordenet.github.io/pr-faq-assistant/) |
 | [product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant) | [PRD](https://en.wikipedia.org/wiki/Product_requirements_document) builder | [▶️](https://bordenet.github.io/product-requirements-assistant/) |
-| [one-pager](https://github.com/bordenet/one-pager) | One-pager document builder | [▶️](https://bordenet.github.io/one-pager/) |
+| [one-pager](https://github.com/bordenet/one-pager) | [One-Pager](https://github.com/bordenet/Engineering_Culture/blob/main/SDLC/The_One-Pager.md) document builder | [▶️](https://bordenet.github.io/one-pager/) |
 | [power-statement-assistant](https://github.com/bordenet/power-statement-assistant) | Power statement builder | [▶️](https://bordenet.github.io/power-statement-assistant/) |
 | [strategic-proposal](https://github.com/bordenet/strategic-proposal) | Strategic proposal generator with pain-point analysis | [▶️](https://bordenet.github.io/strategic-proposal/) |
 | [GameWiki](https://github.com/bordenet/GameWiki) | Interactive game knowledge base and wiki builder | [▶️](https://bordenet.github.io/GameWiki/) |
