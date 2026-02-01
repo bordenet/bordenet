@@ -33,6 +33,7 @@ AI-assisted workflow applications using adversarial LLM interaction, built on **
 | [GameWiki](https://github.com/bordenet/GameWiki) | Interactive game knowledge base and wiki builder | [▶️](https://bordenet.github.io/GameWiki/) |
 
 ### Tools
+- **[superpowers-plus](https://github.com/bordenet/superpowers-plus)** - Extended skills for [obra/superpowers](https://github.com/obra/superpowers). 9 skills covering AI slop detection/elimination, readme authoring, PR-FAQ review, Perplexity research, and systematic verification workflows. Integrates with golden-agents for project initialization.
 - **[golden-agents](https://github.com/bordenet/golden-agents)** - Modular templates for generating project-specific `Agents.md` files. Produces 130-line compact or 800-line full guidance for AI coding assistants. Includes 18 templates across languages (Go, Python, JS, Shell, Dart), project types, and workflows.
 - **[bloginator](https://github.com/bordenet/bloginator)** - Blog generation using RAG to synthesize content from your existing writing corpus. Hybrid semantic search (ChromaDB + BM25), pattern-based slop detection, voice matching. Python CLI, Streamlit UI, FastAPI server. Supports Ollama, OpenAI, and Anthropic.
 - **[codebase-reviewer](https://github.com/bordenet/codebase-reviewer)** - AI-powered codebase analysis for systematic code review and onboarding.
