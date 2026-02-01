@@ -30,7 +30,6 @@ AI-assisted workflow applications using adversarial LLM interaction, built on **
 | [one-pager](https://github.com/bordenet/one-pager) | [One-Pager](https://github.com/bordenet/Engineering_Culture/blob/main/SDLC/The_One-Pager.md) document builder | [▶️](https://bordenet.github.io/one-pager/) |
 | [power-statement-assistant](https://github.com/bordenet/power-statement-assistant) | Power statement builder | [▶️](https://bordenet.github.io/power-statement-assistant/) |
 | [strategic-proposal](https://github.com/bordenet/strategic-proposal) | Strategic proposal generator with pain-point analysis | [▶️](https://bordenet.github.io/strategic-proposal/) |
-| [GameWiki](https://github.com/bordenet/GameWiki) | Interactive game knowledge base and wiki builder | [▶️](https://bordenet.github.io/GameWiki/) |
 
 ### Tools
 - **[superpowers-plus](https://github.com/bordenet/superpowers-plus)** - Extended skills for [obra/superpowers](https://github.com/obra/superpowers). 9 skills covering AI slop detection/elimination, readme authoring, PR-FAQ review, Perplexity research, and systematic verification workflows. Integrates with golden-agents for project initialization.
@@ -46,6 +45,7 @@ AI-assisted workflow applications using adversarial LLM interaction, built on **
 ### Applications
 - **[RecipeArchive](https://github.com/bordenet/RecipeArchive)** - Full-stack recipe manager with web, iOS, and Android support.
 - **[identity-deep-dive](https://github.com/bordenet/identity-deep-dive)** - OAuth2/OIDC authorization server with security scanners and multi-tenant session management.
+- **[GameWiki](https://github.com/bordenet/GameWiki)** - D&D campaign documentation system for turning session transcripts into searchable wiki pages. [Demo](https://bordenet.github.io/GameWiki/)
 
 ### Writing & Case Studies
 - **[Transformation_Case_Studies](https://github.com/bordenet/Transformation_Case_Studies)** - Engineering and organizational transformation case studies with outcomes data.
