@@ -37,7 +37,7 @@ AI-assisted workflow applications using adversarial LLM interaction, built on **
 - **[bloginator](https://github.com/bordenet/bloginator)** - Blog generation using RAG to synthesize content from your existing writing corpus. Hybrid semantic search (ChromaDB + BM25), pattern-based slop detection, voice matching. Python CLI, Streamlit UI, FastAPI server. Supports Ollama, OpenAI, and Anthropic.
 - **[codebase-reviewer](https://github.com/bordenet/codebase-reviewer)** - AI-powered codebase analysis for systematic code review and onboarding.
 - **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** - Fast concurrent scanner for detecting secrets in source control.
-- **[pr-faq-validator](https://github.com/bordenet/pr-faq-validator)** - Go-based tool for parsing and scoring PR-FAQs.
+- **[pr-faq-validator](https://github.com/bordenet/pr-faq-validator)** - Web tool for scoring PR-FAQs against journalistic standards. [Demo](https://bordenet.github.io/pr-faq-validator/)
 - **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** - Multi-interface solver for Apple News Quartile puzzles.
 - **[ZoomBackgroundMagick](https://github.com/bordenet/ZoomBackgroundMagick)** - Shell scripts using ffmpeg to convert panoramic images into scrolling video backgrounds and create slideshows for Zoom.
 - **[scripts](https://github.com/bordenet/scripts)** - Miscellaneous utilities and automation scripts.
