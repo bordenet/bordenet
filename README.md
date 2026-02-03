@@ -20,18 +20,18 @@ Building tools and writing about engineering leadership, operational excellence,
 
 ### Genesis Ecosystem
 
-AI-assisted document workflows with **paired architecture**: each project includes an **Assistant** (guided creation) and a **Validator** (scoring & feedback). Built on **[genesis](https://github.com/bordenet/genesis)** with shared cores for consistency.
+AI-assisted document workflows with **paired architecture**: each repo includes an **Assistant** (guided creation) and a **Validator** (scoring & feedback). Built on **[genesis](https://github.com/bordenet/genesis)**.
 
-| Document Type | Assistant | Validator |
-|---------------|:---------:|:---------:|
-| **[One-Pager](https://github.com/bordenet/Engineering_Culture/blob/main/SDLC/The_One-Pager.md)** | [Repo](https://github.com/bordenet/one-pager) · [Demo](https://bordenet.github.io/one-pager/) | [Repo](https://github.com/bordenet/one-pager) · [Demo](https://bordenet.github.io/one-pager-validator/) |
-| **[PR-FAQ](https://github.com/bordenet/Engineering_Culture/blob/main/SDLC/The_PR-FAQ.md)** | [Repo](https://github.com/bordenet/pr-faq-assistant) · [Demo](https://bordenet.github.io/pr-faq-assistant/) | [Repo](https://github.com/bordenet/pr-faq-assistant) · [Demo](https://bordenet.github.io/pr-faq-validator/) |
-| **[PRD](https://en.wikipedia.org/wiki/Product_requirements_document)** | [Repo](https://github.com/bordenet/product-requirements-assistant) · [Demo](https://bordenet.github.io/product-requirements-assistant/) | [Repo](https://github.com/bordenet/product-requirements-assistant) · [Demo](https://bordenet.github.io/product-requirements-validator/) |
-| **Power Statement** | [Repo](https://github.com/bordenet/power-statement-assistant) · [Demo](https://bordenet.github.io/power-statement-assistant/) | [Repo](https://github.com/bordenet/power-statement-assistant) · [Demo](https://bordenet.github.io/power-statement-validator/) |
-| **Strategic Proposal** | [Repo](https://github.com/bordenet/strategic-proposal) · [Demo](https://bordenet.github.io/strategic-proposal/) | [Repo](https://github.com/bordenet/strategic-proposal) · [Demo](https://bordenet.github.io/strategic-proposal-validator/) |
-| **[ADR](https://adr.github.io/)** | [Repo](https://github.com/bordenet/architecture-decision-record) · [Demo](https://bordenet.github.io/architecture-decision-record/) | [Repo](https://github.com/bordenet/architecture-decision-record) · [Demo](https://bordenet.github.io/architecture-decision-record-validator/) |
+| Project | Document Type | Assistant | Validator |
+|---------|---------------|:---------:|:---------:|
+| [one-pager](https://github.com/bordenet/one-pager) | [One-Pager](https://github.com/bordenet/Engineering_Culture/blob/main/SDLC/The_One-Pager.md) | [▶️](https://bordenet.github.io/one-pager/) | [▶️](https://bordenet.github.io/one-pager-validator/) |
+| [pr-faq-assistant](https://github.com/bordenet/pr-faq-assistant) | [PR-FAQ](https://github.com/bordenet/Engineering_Culture/blob/main/SDLC/The_PR-FAQ.md) | [▶️](https://bordenet.github.io/pr-faq-assistant/) | [▶️](https://bordenet.github.io/pr-faq-validator/) |
+| [product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant) | [PRD](https://en.wikipedia.org/wiki/Product_requirements_document) | [▶️](https://bordenet.github.io/product-requirements-assistant/) | [▶️](https://bordenet.github.io/product-requirements-validator/) |
+| [power-statement-assistant](https://github.com/bordenet/power-statement-assistant) | Power Statement | [▶️](https://bordenet.github.io/power-statement-assistant/) | [▶️](https://bordenet.github.io/power-statement-validator/) |
+| [strategic-proposal](https://github.com/bordenet/strategic-proposal) | Strategic Proposal | [▶️](https://bordenet.github.io/strategic-proposal/) | [▶️](https://bordenet.github.io/strategic-proposal-validator/) |
+| [architecture-decision-record](https://github.com/bordenet/architecture-decision-record) | [ADR](https://adr.github.io/) | [▶️](https://bordenet.github.io/architecture-decision-record/) | [▶️](https://bordenet.github.io/architecture-decision-record-validator/) |
 
-**Shared Libraries:** [assistant-core](https://github.com/bordenet/assistant-core) · [validator-core](https://github.com/bordenet/validator-core)
+**Shared:** [assistant-core](https://github.com/bordenet/assistant-core) · [validator-core](https://github.com/bordenet/validator-core)
 
 ### Tools
 - **[superpowers-plus](https://github.com/bordenet/superpowers-plus)** - Extended skills for [obra/superpowers](https://github.com/obra/superpowers). 9 skills covering AI slop detection/elimination, readme authoring, PR-FAQ review, Perplexity research, and systematic verification workflows.
