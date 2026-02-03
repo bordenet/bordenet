@@ -20,16 +20,18 @@ Building tools and writing about engineering leadership, operational excellence,
 
 ### Genesis Ecosystem
 
-AI-assisted workflow applications using adversarial LLM interaction, built on **[genesis](https://github.com/bordenet/genesis)** — a template system with standardized quality gates and automated deployment.
+AI-assisted document workflows with **paired architecture**: each project includes an **Assistant** (guided creation) and a **Validator** (scoring & feedback). Built on **[genesis](https://github.com/bordenet/genesis)** with shared cores for consistency.
 
-| Application | Description | Demo |
-|-------------|-------------|:----:|
-| [architecture-decision-record](https://github.com/bordenet/architecture-decision-record) | [ADR](https://adr.github.io/) assistant with 3-phase workflow (Draft → Review → Synthesis) | [▶️](https://bordenet.github.io/architecture-decision-record/) |
-| [pr-faq-assistant](https://github.com/bordenet/pr-faq-assistant) | Amazon-style [PR-FAQ](https://github.com/bordenet/Engineering_Culture/blob/main/SDLC/The_PR-FAQ.md) builder with adversarial AI review | [▶️](https://bordenet.github.io/pr-faq-assistant/) |
-| [product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant) | [PRD](https://en.wikipedia.org/wiki/Product_requirements_document) builder | [▶️](https://bordenet.github.io/product-requirements-assistant/) |
-| [one-pager](https://github.com/bordenet/one-pager) | [One-Pager](https://github.com/bordenet/Engineering_Culture/blob/main/SDLC/The_One-Pager.md) document builder | [▶️](https://bordenet.github.io/one-pager/) |
-| [power-statement-assistant](https://github.com/bordenet/power-statement-assistant) | Power statement builder | [▶️](https://bordenet.github.io/power-statement-assistant/) |
-| [strategic-proposal](https://github.com/bordenet/strategic-proposal) | Strategic proposal generator with pain-point analysis | [▶️](https://bordenet.github.io/strategic-proposal/) |
+| Document Type | Assistant | Validator |
+|---------------|:---------:|:---------:|
+| **[One-Pager](https://github.com/bordenet/Engineering_Culture/blob/main/SDLC/The_One-Pager.md)** | [Repo](https://github.com/bordenet/one-pager) · [Demo](https://bordenet.github.io/one-pager/) | [Repo](https://github.com/bordenet/one-pager) · [Demo](https://bordenet.github.io/one-pager-validator/) |
+| **[PR-FAQ](https://github.com/bordenet/Engineering_Culture/blob/main/SDLC/The_PR-FAQ.md)** | [Repo](https://github.com/bordenet/pr-faq-assistant) · [Demo](https://bordenet.github.io/pr-faq-assistant/) | [Repo](https://github.com/bordenet/pr-faq-assistant) · [Demo](https://bordenet.github.io/pr-faq-validator/) |
+| **[PRD](https://en.wikipedia.org/wiki/Product_requirements_document)** | [Repo](https://github.com/bordenet/product-requirements-assistant) · [Demo](https://bordenet.github.io/product-requirements-assistant/) | [Repo](https://github.com/bordenet/product-requirements-assistant) · [Demo](https://bordenet.github.io/product-requirements-validator/) |
+| **Power Statement** | [Repo](https://github.com/bordenet/power-statement-assistant) · [Demo](https://bordenet.github.io/power-statement-assistant/) | [Repo](https://github.com/bordenet/power-statement-assistant) · [Demo](https://bordenet.github.io/power-statement-validator/) |
+| **Strategic Proposal** | [Repo](https://github.com/bordenet/strategic-proposal) · [Demo](https://bordenet.github.io/strategic-proposal/) | [Repo](https://github.com/bordenet/strategic-proposal) · [Demo](https://bordenet.github.io/strategic-proposal-validator/) |
+| **[ADR](https://adr.github.io/)** | [Repo](https://github.com/bordenet/architecture-decision-record) · [Demo](https://bordenet.github.io/architecture-decision-record/) | [Repo](https://github.com/bordenet/architecture-decision-record) · [Demo](https://bordenet.github.io/architecture-decision-record-validator/) |
+
+**Shared Libraries:** [assistant-core](https://github.com/bordenet/assistant-core) · [validator-core](https://github.com/bordenet/validator-core)
 
 ### Tools
 - **[superpowers-plus](https://github.com/bordenet/superpowers-plus)** - Extended skills for [obra/superpowers](https://github.com/obra/superpowers). 9 skills covering AI slop detection/elimination, readme authoring, PR-FAQ review, Perplexity research, and systematic verification workflows.
@@ -37,7 +39,6 @@ AI-assisted workflow applications using adversarial LLM interaction, built on **
 - **[bloginator](https://github.com/bordenet/bloginator)** - Blog generation using RAG to synthesize content from your existing writing corpus. Hybrid semantic search (ChromaDB + BM25), pattern-based slop detection, voice matching. Python CLI, Streamlit UI, FastAPI server. Supports Ollama, OpenAI, and Anthropic.
 - **[codebase-reviewer](https://github.com/bordenet/codebase-reviewer)** - AI-powered codebase analysis for systematic code review and onboarding.
 - **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** - Fast concurrent scanner for detecting secrets in source control.
-- **[pr-faq-validator](https://github.com/bordenet/pr-faq-validator)** - Web tool for scoring PR-FAQs against journalistic standards. [Demo](https://bordenet.github.io/pr-faq-validator/)
 - **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** - Multi-interface solver for Apple News Quartile puzzles.
 - **[ZoomBackgroundMagick](https://github.com/bordenet/ZoomBackgroundMagick)** - Shell scripts using ffmpeg to convert panoramic images into scrolling video backgrounds and create slideshows for Zoom.
 - **[scripts](https://github.com/bordenet/scripts)** - Miscellaneous utilities and automation scripts.
