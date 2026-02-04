@@ -31,8 +31,6 @@ AI-assisted document workflows with **paired architecture**: each repo includes 
 | [strategic-proposal](https://github.com/bordenet/strategic-proposal) | Strategic Proposal | [▶️](https://bordenet.github.io/strategic-proposal/) | [▶️](https://bordenet.github.io/strategic-proposal/validator/) |
 | [architecture-decision-record](https://github.com/bordenet/architecture-decision-record) | [ADR](https://adr.github.io/) | [▶️](https://bordenet.github.io/architecture-decision-record/) | [▶️](https://bordenet.github.io/architecture-decision-record/validator/) |
 
-**Shared:** [assistant-core](https://github.com/bordenet/assistant-core) · [validator-core](https://github.com/bordenet/validator-core)
-
 ### Tools
 - **[superpowers-plus](https://github.com/bordenet/superpowers-plus)** - Extended skills for [obra/superpowers](https://github.com/obra/superpowers). 9 skills covering AI slop detection/elimination, readme authoring, PR-FAQ review, Perplexity research, and systematic verification workflows.
 - **[golden-agents](https://github.com/bordenet/golden-agents)** - AI guidance files don't scale. A 500-line `CLAUDE.md` wastes context and buries critical rules. Golden-agents generates a compact core (~60 lines) with on-demand module loading—the AI gets the right guidance for each task without drowning in irrelevant text.
