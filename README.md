@@ -31,6 +31,7 @@ AI-assisted document workflows with **paired architecture**: each repo includes 
 | [strategic-proposal](https://github.com/bordenet/strategic-proposal) | Strategic Proposal | [▶️](https://bordenet.github.io/strategic-proposal/) | [▶️](https://bordenet.github.io/strategic-proposal/validator/) |
 | [architecture-decision-record](https://github.com/bordenet/architecture-decision-record) | [ADR](https://adr.github.io/) | [▶️](https://bordenet.github.io/architecture-decision-record/) | [▶️](https://bordenet.github.io/architecture-decision-record/validator/) |
 | [jd-assistant](https://github.com/bordenet/jd-assistant) | Job Description | [▶️](https://bordenet.github.io/jd-assistant/) | [▶️](https://bordenet.github.io/jd-assistant/validator/) |
+| [acceptance-criteria-assistant](https://github.com/bordenet/acceptance-criteria-assistant) | Acceptance Criteria | [▶️](https://bordenet.github.io/acceptance-criteria-assistant/) | [▶️](https://bordenet.github.io/acceptance-criteria-assistant/validator/) |
 
 ### Tools
 - **[superpowers-plus](https://github.com/bordenet/superpowers-plus)** - Extended skills for [obra/superpowers](https://github.com/obra/superpowers). 9 skills covering AI slop detection/elimination, readme authoring, PR-FAQ review, Perplexity research, and systematic verification workflows.
