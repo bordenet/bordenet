@@ -34,6 +34,7 @@ AI-assisted document workflows with **paired architecture**: each repo includes 
 | [acceptance-criteria-assistant](https://github.com/bordenet/acceptance-criteria-assistant) | Acceptance Criteria | [▶️](https://bordenet.github.io/acceptance-criteria-assistant/) | [▶️](https://bordenet.github.io/acceptance-criteria-assistant/validator/) |
 
 ### Tools
+
 - **[superpowers-plus](https://github.com/bordenet/superpowers-plus)** - Extended skills for [obra/superpowers](https://github.com/obra/superpowers). 9 skills covering AI slop detection/elimination, readme authoring, PR-FAQ review, Perplexity research, and systematic verification workflows.
 - **[golden-agents](https://github.com/bordenet/golden-agents)** - AI guidance files don't scale. A 500-line `CLAUDE.md` wastes context and buries critical rules. Golden-agents generates a compact core (~60 lines) with on-demand module loading—the AI gets the right guidance for each task without drowning in irrelevant text.
 - **[bloginator](https://github.com/bordenet/bloginator)** - Blog generation using RAG to synthesize content from your existing writing corpus. Hybrid semantic search (ChromaDB + BM25), pattern-based slop detection, voice matching. Python CLI, Streamlit UI, FastAPI server. Supports Ollama, OpenAI, and Anthropic.
@@ -44,11 +45,13 @@ AI-assisted document workflows with **paired architecture**: each repo includes 
 - **[scripts](https://github.com/bordenet/scripts)** - Miscellaneous utilities and automation scripts.
 
 ### Applications
+
 - **[RecipeArchive](https://github.com/bordenet/RecipeArchive)** - Full-stack recipe manager with web, iOS, and Android support.
 - **[identity-deep-dive](https://github.com/bordenet/identity-deep-dive)** - OAuth2/OIDC authorization server with security scanners and multi-tenant session management.
 - **[GameWiki](https://github.com/bordenet/GameWiki)** - D&D campaign documentation system for turning session transcripts into searchable wiki pages. [Demo](https://bordenet.github.io/GameWiki/)
 
 ### Writing & Case Studies
+
 - **[Transformation_Case_Studies](https://github.com/bordenet/Transformation_Case_Studies)** - Engineering and organizational transformation case studies with outcomes data.
 - **[Engineering_Culture](https://github.com/bordenet/Engineering_Culture)** - Essays on engineering leadership, velocity, and software craft.
 - **[ai-fundamentals-simple](https://github.com/bordenet/ai-fundamentals-simple)** - Practical AI fundamentals guide for engineering leaders.
