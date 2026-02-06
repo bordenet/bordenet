@@ -34,9 +34,7 @@ AI-assisted document workflows with **paired architecture**: each repo includes 
 | [acceptance-criteria-assistant](https://github.com/bordenet/acceptance-criteria-assistant) | Acceptance Criteria | [▶️](https://bordenet.github.io/acceptance-criteria-assistant/) | [▶️](https://bordenet.github.io/acceptance-criteria-assistant/validator/) |
 | [business-justification-assistant](https://github.com/bordenet/business-justification-assistant) | Business Justification | [▶️](https://bordenet.github.io/business-justification-assistant/) | [▶️](https://bordenet.github.io/business-justification-assistant/validator/) |
 
-**Why so many similar repos?** Genesis was an experiment in making AI-assisted development deterministic. I learned how far you need to go to approach something resembling consistency: spec-driven development, self-generated frameworks, TDD with custom validators, and self-reinforcing AI instructions. My conclusion is that it's not worth it. Clean architecture and strong abstractions are more efficient. These repos illustrate the approach.
-
-> **Note:** These tools currently exist as separate repositories with a shared codebase. Enterprise deployment options (monorepo, unified portal, etc.) are under consideration.
+**Why so many similar repos? Why not a monorepo?** See [Genesis: Background](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md).
 
 ### Tools
 
