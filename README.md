@@ -32,6 +32,9 @@ AI-assisted document workflows with **paired architecture**: each repo includes 
 | [architecture-decision-record](https://github.com/bordenet/architecture-decision-record) | [ADR](https://adr.github.io/) | [▶️](https://bordenet.github.io/architecture-decision-record/) | [▶️](https://bordenet.github.io/architecture-decision-record/validator/) |
 | [jd-assistant](https://github.com/bordenet/jd-assistant) | Job Description | [▶️](https://bordenet.github.io/jd-assistant/) | [▶️](https://bordenet.github.io/jd-assistant/validator/) |
 | [acceptance-criteria-assistant](https://github.com/bordenet/acceptance-criteria-assistant) | Acceptance Criteria | [▶️](https://bordenet.github.io/acceptance-criteria-assistant/) | [▶️](https://bordenet.github.io/acceptance-criteria-assistant/validator/) |
+| [business-justification-assistant](https://github.com/bordenet/business-justification-assistant) | Business Justification | [▶️](https://bordenet.github.io/business-justification-assistant/) | [▶️](https://bordenet.github.io/business-justification-assistant/validator/) |
+
+> **Note:** These tools currently exist as separate repositories with a shared codebase. Enterprise deployment options (monorepo, unified portal, etc.) are under consideration.
 
 ### Tools
 
