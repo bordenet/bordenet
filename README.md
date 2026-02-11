@@ -18,23 +18,13 @@ Building tools and writing about engineering leadership, operational excellence,
 
 ## Projects
 
-### Genesis Ecosystem
+### DocForge AI
 
-AI-assisted document workflows with **paired architecture**: each repo includes an **Assistant** (guided creation) and a **Validator** (scoring & feedback). Built on **[genesis](https://github.com/bordenet/genesis)**.
+**[docforge-ai](https://github.com/bordenet/docforge-ai)** generates business documents using adversarial AI review. Claude drafts, Gemini critiques, Claude synthesizes. Supports 9 document types: one-pagers, PRDs, ADRs, PR-FAQs, job descriptions, and more.
 
-| Project | Document Type | Assistant | Validator |
-|---------|---------------|:---------:|:---------:|
-| [one-pager](https://github.com/bordenet/one-pager) | [One-Pager](https://github.com/bordenet/Engineering_Culture/blob/main/SDLC/The_One-Pager.md) | [▶️](https://bordenet.github.io/one-pager/) | [▶️](https://bordenet.github.io/one-pager/validator/) |
-| [pr-faq-assistant](https://github.com/bordenet/pr-faq-assistant) | [PR-FAQ](https://github.com/bordenet/Engineering_Culture/blob/main/SDLC/The_PR-FAQ.md) | [▶️](https://bordenet.github.io/pr-faq-assistant/) | [▶️](https://bordenet.github.io/pr-faq-assistant/validator/) |
-| [product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant) | [PRD](https://en.wikipedia.org/wiki/Product_requirements_document) | [▶️](https://bordenet.github.io/product-requirements-assistant/) | [▶️](https://bordenet.github.io/product-requirements-assistant/validator/) |
-| [power-statement-assistant](https://github.com/bordenet/power-statement-assistant) | Power Statement | [▶️](https://bordenet.github.io/power-statement-assistant/) | [▶️](https://bordenet.github.io/power-statement-assistant/validator/) |
-| [strategic-proposal](https://github.com/bordenet/strategic-proposal) | Strategic Proposal | [▶️](https://bordenet.github.io/strategic-proposal/) | [▶️](https://bordenet.github.io/strategic-proposal/validator/) |
-| [architecture-decision-record](https://github.com/bordenet/architecture-decision-record) | [ADR](https://adr.github.io/) | [▶️](https://bordenet.github.io/architecture-decision-record/) | [▶️](https://bordenet.github.io/architecture-decision-record/validator/) |
-| [jd-assistant](https://github.com/bordenet/jd-assistant) | Job Description | [▶️](https://bordenet.github.io/jd-assistant/) | [▶️](https://bordenet.github.io/jd-assistant/validator/) |
-| [acceptance-criteria-assistant](https://github.com/bordenet/acceptance-criteria-assistant) | Acceptance Criteria | [▶️](https://bordenet.github.io/acceptance-criteria-assistant/) | [▶️](https://bordenet.github.io/acceptance-criteria-assistant/validator/) |
-| [business-justification-assistant](https://github.com/bordenet/business-justification-assistant) | Business Justification | [▶️](https://bordenet.github.io/business-justification-assistant/) | [▶️](https://bordenet.github.io/business-justification-assistant/validator/) |
+**[▶️ Try it](https://bordenet.github.io/docforge-ai/assistant/)** | [GitHub](https://github.com/bordenet/docforge-ai)
 
-**Why so many similar repos? Why not a monorepo?** See [Genesis: Background](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md).
+DocForge consolidates the [Genesis experiment](GENESIS.md), which proved the adversarial workflow across 9 separate repos. Genesis worked but required 9 PRs per bug fix. DocForge keeps the workflow, drops the duplication.
 
 ### Tools
 
