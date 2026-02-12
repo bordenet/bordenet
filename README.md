@@ -45,8 +45,8 @@ DocForge consolidates the [Genesis experiment](GENESIS.md), which proved the adv
 
 ### Writing & Case Studies
 
-- **[Transformation_Case_Studies](https://github.com/bordenet/Transformation_Case_Studies)** - Engineering and organizational transformation case studies with outcomes data.
 - **[Engineering_Culture](https://github.com/bordenet/Engineering_Culture)** - Essays on engineering leadership, velocity, and software craft.
+- **[Transformation_Case_Studies](https://github.com/bordenet/Transformation_Case_Studies)** - Engineering and organizational transformation case studies with outcomes data.
 - **[ai-fundamentals-simple](https://github.com/bordenet/ai-fundamentals-simple)** - Practical AI fundamentals guide for engineering leaders.
 
 ---
