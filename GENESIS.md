@@ -51,17 +51,5 @@ For those studying the architecture or maintaining existing Genesis projects:
 
 ### Individual Projects (Archived)
 
-| Project | Document Type |
-|---------|---------------|
-| [one-pager](https://github.com/bordenet/one-pager) | Executive summary |
-| [pr-faq-assistant](https://github.com/bordenet/pr-faq-assistant) | Press release + FAQ |
-| [product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant) | PRD |
-| [power-statement-assistant](https://github.com/bordenet/power-statement-assistant) | Achievement statements |
-| [strategic-proposal](https://github.com/bordenet/strategic-proposal) | Initiative proposals |
-| [architecture-decision-record](https://github.com/bordenet/architecture-decision-record) | ADR |
-| [jd-assistant](https://github.com/bordenet/jd-assistant) | Job descriptions |
-| [acceptance-criteria-assistant](https://github.com/bordenet/acceptance-criteria-assistant) | User story criteria |
-| [business-justification-assistant](https://github.com/bordenet/business-justification-assistant) | ROI analysis |
-
-All projects remain functional but receive no new features. Use DocForge AI for active development.
+The 9 original Genesis-derived projects remain functional but receive no new features. All document types are now available in [DocForge AI](https://bordenet.github.io/docforge-ai/assistant/).
 
