@@ -20,7 +20,7 @@ Building tools and writing about engineering leadership, operational excellence,
 
 ### DocForge AI
 
-**[docforge-ai](https://github.com/bordenet/docforge-ai)** generates business documents using adversarial AI review. Claude drafts, Gemini critiques, Claude synthesizes. Supports 9 document types: one-pagers, PRDs, ADRs, PR-FAQs, job descriptions, and more. **[▶️ Try it](https://bordenet.github.io/docforge-ai/assistant/)** | [History](GENESIS.md)
+**[docforge-ai](https://github.com/bordenet/docforge-ai)** — Forge business documents on the anvil of adversarial AI review. Claude drafts, Gemini critiques, Claude synthesizes. *(Yes, "forge" like a blacksmith — not like a counterfeiter.)* Supports 9 document types. **[▶️ Try it](https://bordenet.github.io/docforge-ai/assistant/)** | [History](GENESIS.md)
 
 ### Tools
 
