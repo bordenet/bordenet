@@ -31,7 +31,7 @@ Writing about engineering leadership and building AI-assisted development tools.
 - **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** - Fast concurrent scanner for detecting secrets in source control.
 - **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** - Multi-interface solver for Apple News Quartile puzzles.
 - **[ZoomBackgroundMagick](https://github.com/bordenet/ZoomBackgroundMagick)** - Shell scripts using ffmpeg to convert panoramic images into scrolling video backgrounds and create slideshows for Zoom.
-- **[scripts](https://github.com/bordenet/scripts)** - Miscellaneous utilities and automation scripts.
+- **[scripts](https://github.com/bordenet/scripts)** - Bash toolkit for macOS and Linux: git workflows, system automation, security tools, and dev environment setup. CI-enforced quality standards.
 
 ### Applications
 
