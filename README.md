@@ -1,12 +1,12 @@
 # Matt Bordenet
 
-Experienced engineering leader building platforms and leading teams at Microsoft, Amazon, Warner Bros. Discovery (iStreamPlanet), Stash Financial, Telepathy.AI, and now [**CallBox**](https://callbox.com). Working on [Cari Phone Assist](https://www.carwars.com/home/a/cari-phone-assist/), a conversational AI. Based in Seattle. **_We are hiring-- seeking a [Senior Software Engineer (remote)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3757700)._**
+Engineering leader at Microsoft, Amazon, Warner Bros. Discovery (iStreamPlanet), Stash Financial, Telepathy.AI, and now [**Call Box**](https://callbox.com). Building [Cari Phone Assist](https://www.carwars.com/home/a/cari-phone-assist/), a conversational voice AI for automotive dealerships. Based in Seattle. **_We are hiring— seeking a [Senior Software Engineer - Conversational AI Platform (remote)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3757700)._**
 
 ## What I Do
 
-I rebuild fragile systems into reliable platforms and transform engineering cultures from reactive to proactive. Recent work includes:
+Recent work includes:
 
-- **Call Box (Engineering Director):** Building a conversational AI for automotive dealerships atop a stable, profitable business and modernizing the company's engineering culture and processes
+- **Call Box (Engineering Director):** Building a real-time conversational voice AI platform for automotive dealerships. Hired and built the team, established engineering standards, shipped production AI on a live customer base
 - **Telepathy.AI (VP Engineering):** Scaled conversational AI infrastructure from prototype to production, supporting 50M+ monthly conversations across global operations
 - **Stash Financial (VP Engineering):** Reduced platform downtime 60% while maintaining SOC-2/FINRA/FDIC compliance for 2M+ users
 - **iStreamPlanet (Director):** Rebuilt streaming platform to 99.99% uptime, scaled to 180+ live channels, selected as Warner Bros. Discovery's go-forward technology post-acquisition
@@ -14,7 +14,7 @@ I rebuild fragile systems into reliable platforms and transform engineering cult
 
 ## Current Focus
 
-Building tools and writing about engineering leadership, operational excellence, and AI-assisted development. All repos are working code or real-world case studies.
+Writing about engineering leadership and building AI-assisted development tools. Projects below.
 
 ## Projects
 
@@ -25,7 +25,7 @@ Building tools and writing about engineering leadership, operational excellence,
 ### Tools
 
 - **[superpowers-plus](https://github.com/bordenet/superpowers-plus)** - Extended skills for [obra/superpowers](https://github.com/obra/superpowers). 47 skills across 9 domains covering engineering workflows, wiki management, issue tracking, AI slop detection/elimination, security audits, observability, and systematic verification workflows.
-- **[golden-agents](https://github.com/bordenet/golden-agents)** - AI guidance files don't scale. A 500-line `CLAUDE.md` wastes context and buries critical rules. Golden-agents generates a compact core (~60 lines) with on-demand module loading—the AI gets the right guidance for each task without drowning in irrelevant text.
+- **[golden-agents](https://github.com/bordenet/golden-agents)** - Self-maintaining AI guidance files. Generates `AGENTS.md` with a 250-line threshold and automatic module extraction—when files grow past the limit, the AI refactors its own instructions into topic-specific modules without human intervention.
 - **[bloginator](https://github.com/bordenet/bloginator)** - Blog generation using RAG to synthesize content from your existing writing corpus. Hybrid semantic search (ChromaDB + BM25), pattern-based slop detection, voice matching. Python CLI, Streamlit UI, FastAPI server. Supports Ollama, OpenAI, and Anthropic.
 - **[codebase-reviewer](https://github.com/bordenet/codebase-reviewer)** - AI-powered codebase analysis for systematic code review and onboarding.
 - **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** - Fast concurrent scanner for detecting secrets in source control.
@@ -37,7 +37,7 @@ Building tools and writing about engineering leadership, operational excellence,
 
 - **[RecipeArchive](https://github.com/bordenet/RecipeArchive)** - Full-stack recipe manager with web, iOS, and Android support.
 - **[identity-deep-dive](https://github.com/bordenet/identity-deep-dive)** - OAuth2/OIDC authorization server with security scanners and multi-tenant session management.
-- **[GameWiki](https://github.com/bordenet/GameWiki)** - D&D campaign documentation system for turning session transcripts into searchable wiki pages. [Demo](https://bordenet.github.io/GameWiki/)
+- **[GameWiki](https://github.com/bordenet/GameWiki)** - Tabletop RPG campaign documentation system for turning session transcripts into searchable wiki pages. [Demo](https://bordenet.github.io/GameWiki/)
 
 ### Writing & Case Studies
 
