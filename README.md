@@ -24,7 +24,7 @@ Writing about engineering leadership and building AI-assisted development tools.
 
 ### Tools
 
-- **[superpowers-plus](https://github.com/bordenet/superpowers-plus)** - 62 skills for AI coding assistants, extending [obra/superpowers](https://github.com/obra/superpowers). Covers engineering workflows (blast radius, TDD, code review, design triad, pre-commit gates), wiki pipelines, issue tracking, slop detection/elimination, security scanning, planning/execution orchestration, and multi-agent coordination.
+- **[superpowers-plus](https://github.com/bordenet/superpowers-plus)** - 65 skills for AI coding assistants, extending [obra/superpowers](https://github.com/obra/superpowers). Covers engineering workflows (blast radius, TDD, code review, design triad, pre-commit gates), wiki pipelines, issue tracking, slop detection/elimination, security scanning, planning/execution orchestration, and multi-agent coordination.
 - **[golden-agents](https://github.com/bordenet/golden-agents)** - Self-maintaining AI guidance files. Generates `AGENTS.md` with a 250-line threshold and automatic module extraction—when files grow past the limit, the AI refactors its own instructions into topic-specific modules without human intervention.
 - **[bloginator](https://github.com/bordenet/bloginator)** - Blog generation using RAG to synthesize content from your existing writing corpus. Hybrid semantic search (ChromaDB + BM25), pattern-based slop detection, voice matching. Python CLI, Streamlit UI, FastAPI server. Supports Ollama, OpenAI, and Anthropic.
 - **[codebase-reviewer](https://github.com/bordenet/codebase-reviewer)** - AI-powered codebase analysis for systematic code review and onboarding.
