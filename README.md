@@ -6,7 +6,7 @@ Engineering leader at Microsoft, Amazon, Warner Bros. Discovery (iStreamPlanet),
 
 Recent work includes:
 
-- **Call Box (Engineering Director):** Building a real-time conversational voice AI platform for automotive dealerships. Hired and built the team, established engineering standards, shipped production AI on a live customer base
+- **Call Box (Engineering Director):** Building a real-time conversational voice AI platform for automotive dealerships. Hiring and building the team, establishing engineering standards, shipping production AI on a live customer base
 - **Telepathy.AI (VP Engineering):** Scaled conversational AI infrastructure from prototype to production, supporting 50M+ monthly conversations across global operations
 - **Stash Financial (VP Engineering):** Reduced platform downtime 60% while maintaining SOC-2/FINRA/FDIC compliance for 2M+ users
 - **iStreamPlanet (Director):** Rebuilt streaming platform to 99.99% uptime, scaled to 180+ live channels, selected as Warner Bros. Discovery's go-forward technology post-acquisition
