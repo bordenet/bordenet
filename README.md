@@ -1,6 +1,6 @@
 # Matt Bordenet
 
-Engineering leader at Microsoft, Amazon, Warner Bros. Discovery (iStreamPlanet), Stash Financial, Telepathy.AI, and now [**Call Box**](https://callbox.com). Building [Cari Phone Assist](https://www.carwars.com/home/a/cari-phone-assist/), a conversational voice AI for automotive dealerships. Based in Seattle. **_We are hiring— seeking a [Senior Software Engineer - Conversational AI Platform (remote)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3757700)._**
+Engineering leader at Microsoft, Amazon, Warner Bros. Discovery (iStreamPlanet), Stash Financial, Telepathy.AI, and now [**Call Box**](https://callbox.com). Building [Cari Phone Assist](https://www.carwars.com/home/a/cari-phone-assist/), a conversational voice AI for automotive dealerships. Based in Seattle. **_We are hiring— seeking a [Software Engineer - Conversational AI Platform (remote)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4033040)._**
 
 ## What I Do
 
