@@ -20,7 +20,7 @@ Writing about engineering leadership and building AI-assisted development tools.
 
 ### DocForge AI
 
-**[docforge-ai](https://github.com/bordenet/docforge-ai)** — Forge business documents on the anvil of adversarial AI review. Claude drafts, Gemini critiques, Claude synthesizes. *(Great documents, not fake passports.)* Supports 9 document types. **[▶️ Try it](https://bordenet.github.io/docforge-ai/assistant/)**
+**[docforge-ai](https://github.com/bordenet/docforge-ai)** — Forge business documents on the anvil of adversarial AI review. Claude drafts, Gemini critiques, Claude synthesizes. *(Great documents, not fake passports.)* Supports 9 document types. **[▶️ Try it](https://bordenet.github.io/docforge-ai/)**
 
 ### Tools
 
