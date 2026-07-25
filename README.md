@@ -1,15 +1,15 @@
 # Matt Bordenet
 
-Engineering leader at Microsoft, Amazon, Warner Bros. Discovery (iStreamPlanet), Stash Financial, Telepathy.AI, and now [**Call Box**](https://callbox.com) (remote from Seattle). Building [Cari Phone Assist](https://www.carwars.com/home/a/cari-phone-assist/), a conversational voice AI for automotive dealerships.
+Engineering leader at Microsoft, Amazon, Warner Bros. Discovery (iStreamPlanet), Stash Financial, Telepathy.AI, and now [**Call Box**](https://callbox.com) (remote from Seattle), where I'm leading the team building [Cari Phone Assist](https://www.carwars.com/home/a/cari-phone-assist/), a conversational voice AI for automotive dealerships.
 
 ## What I Do
 
 Recent work includes:
 
-- **Call Box (Engineering Director):** Building a real-time conversational voice AI platform for automotive dealerships. Hiring and building the team, establishing engineering standards, shipping production AI on a live customer base
-- **Telepathy.AI (VP Engineering):** Scaled conversational AI infrastructure from prototype to production, supporting 50M+ monthly conversations across global operations
-- **Stash Financial (VP Engineering):** Reduced platform downtime 60% while maintaining SOC-2/FINRA/FDIC compliance for 2M+ users
-- **iStreamPlanet (Director):** Rebuilt streaming platform to 99.99% uptime, scaled to 180+ live channels, selected as Warner Bros. Discovery's go-forward technology post-acquisition
+- **Call Box (Engineering Director):** Established the engineering culture, then built out a team spanning engineering, solutions architecture, and product; now driving continuous improvement and customer-centric results for a live automotive AI product
+- **Telepathy.AI (VP Engineering):** Led the team that took conversational AI infrastructure from prototype to production, supporting 50M+ monthly conversations across global operations
+- **Stash Financial (VP Engineering):** Partnered with compliance and platform leadership to cut downtime 60% while maintaining SOC-2/FINRA/FDIC compliance for 2M+ users
+- **iStreamPlanet (Director):** Led the team that rebuilt the streaming platform to 99.99% uptime and 180+ live channels, later selected as Warner Bros. Discovery's go-forward technology post-acquisition
 - **Amazon (Software Development Manager):** Led video playback API teams for Amazon Instant Video during a time of rapid expansion
 
 ## Current Focus
