@@ -20,20 +20,23 @@ Writing about engineering leadership and building AI-assisted development tools.
 
 ## Projects
 
-### DocForge AI
+### superpowers-plus
 
-**[docforge-ai](https://github.com/bordenet/docforge-ai)** - Forge business documents on the anvil of adversarial AI review. Claude drafts, Gemini critiques, Claude synthesizes. *(Great documents, not fake passports.)* Supports 9 document types. **[▶️ Try it](https://bordenet.github.io/docforge-ai/)**
+**[superpowers-plus](https://github.com/bordenet/superpowers-plus)** - 124 skills for AI coding assistants (Claude Code, Claude desktop, Augment Code, OpenAI Codex, Cursor), extending [obra/superpowers](https://github.com/obra/superpowers). Covers engineering workflows (TDD, code review battery, pre-commit gates, systematic debugging), wiki pipelines, issue tracking, slop detection/elimination, security scanning, research integration, and multi-agent coordination across 9 domains. This is where nearly all of my public-repo time goes.
 
-### Tools
+### More AI Tooling
 
-- **[superpowers-plus](https://github.com/bordenet/superpowers-plus)** - 123 skills for AI coding assistants (Claude Code, Claude desktop, Augment Code, OpenAI Codex, Cursor), extending [obra/superpowers](https://github.com/obra/superpowers). Covers engineering workflows (TDD, code review battery, pre-commit gates, systematic debugging), wiki pipelines, issue tracking, slop detection/elimination, security scanning, research integration, and multi-agent coordination across 9 domains.
 - **[golden-agents](https://github.com/bordenet/golden-agents)** - Self-maintaining AI guidance files. Generates `AGENTS.md` with a 250-line threshold and automatic module extraction: when files grow past the limit, the AI refactors its own instructions into topic-specific modules without human intervention.
+- **[scripts](https://github.com/bordenet/scripts)** - Bash toolkit for macOS and Linux: git workflows, system automation, security tools, and dev environment setup. CI-enforced quality standards.
+- **[docforge-ai](https://github.com/bordenet/docforge-ai)** - Business documents drafted through adversarial AI review: Claude drafts, Gemini critiques, Claude synthesizes. Supports 9 document types. **[Try it](https://bordenet.github.io/docforge-ai/)**
+
+### Other Tools
+
 - **[bloginator](https://github.com/bordenet/bloginator)** - Blog generation using RAG to synthesize content from your existing writing corpus. Hybrid semantic search (ChromaDB + BM25), pattern-based slop detection, voice matching. Python CLI, Streamlit UI, FastAPI server. Supports Ollama, OpenAI, and Anthropic.
 - **[codebase-reviewer](https://github.com/bordenet/codebase-reviewer)** - AI-powered codebase analysis for systematic code review and onboarding.
 - **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** - Fast concurrent scanner for detecting secrets in source control.
 - **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** - Multi-interface solver for Apple News Quartile puzzles.
 - **[ZoomBackgroundMagick](https://github.com/bordenet/ZoomBackgroundMagick)** - Shell scripts using ffmpeg to convert panoramic images into scrolling video backgrounds and create slideshows for Zoom.
-- **[scripts](https://github.com/bordenet/scripts)** - Bash toolkit for macOS and Linux: git workflows, system automation, security tools, and dev environment setup. CI-enforced quality standards.
 
 ### Applications
 
