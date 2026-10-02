@@ -2,6 +2,14 @@
 
 Engineering leader at Microsoft, Amazon, Warner Bros. Discovery (iStreamPlanet), Stash Financial, Telepathy.ai, and now [**Call Box**](https://callbox.com) (remote from Seattle), where I'm leading the team building [Cari Phone Assist](https://www.carwars.com/home/a/cari-phone-assist/), a conversational voice AI for automotive dealerships.
 
+I build AI-native products, reliable platforms, and the engineering organizations that run them, and I still write code.
+
+- **AI-native products:** conversational voice AI in production; earlier, moved Telepathy.ai from a six-year proprietary AI stack to commercial LLMs; [superpowers-plus](https://github.com/bordenet/superpowers-plus) for AI coding agents.
+- **Reliability at scale:** 99.99% uptime for live national sports broadcasts, ~90% to 99.9% uptime through a cloud migration, and outages down ~60% in a regulated fintech.
+- **Engineering organizations:** led organizations of 35 to 220 engineers, including distributed teams in Singapore and Zurich. How I run them: [Engineering Culture](https://github.com/bordenet/Engineering_Culture).
+
+**Case studies** (problem, decisions, results, and missteps): [Telepathy.ai](https://github.com/bordenet/Transformation_Case_Studies/blob/main/Transformation_Case_Study_TelepathyAI.md) · [Stash](https://github.com/bordenet/Transformation_Case_Studies/blob/main/Transformation_Case_Study_Stash.md) · [iStreamPlanet](https://github.com/bordenet/Transformation_Case_Studies/blob/main/Transformation_Case_Study_iStreamPlanet.md) · [AI-First at Telepathy.ai](https://github.com/bordenet/Transformation_Case_Studies/blob/main/AI-First_Case_Study_TelepathyAI.md)
+
 ## What I Do
 
 Along the way:
@@ -22,7 +30,7 @@ Writing about engineering leadership and building AI-assisted development tools.
 
 ### superpowers-plus
 
-**[superpowers-plus](https://github.com/bordenet/superpowers-plus)** - 124 skills for AI coding assistants (Claude Code, Claude desktop, Augment Code, OpenAI Codex, Cursor), extending [obra/superpowers](https://github.com/obra/superpowers). Covers engineering workflows (TDD, code review battery, pre-commit gates, systematic debugging), wiki pipelines, issue tracking, slop detection/elimination, security scanning, research integration, and multi-agent coordination across 9 domains. This is where nearly all of my public-repo time goes.
+**[superpowers-plus](https://github.com/bordenet/superpowers-plus)** - 124 skills that make AI coding assistants follow engineering practices they would otherwise skip (root-cause debugging, design alternatives, parallel code review, verification), backed by lifecycle hooks and git commit gates that run outside the model. Full support for Claude Code and Augment Code; skills for Codex, OpenCode, and MCP clients. Extends [obra/superpowers](https://github.com/obra/superpowers). This is where nearly all of my public-repo time goes.
 
 ### More AI Tooling
 
@@ -33,7 +41,6 @@ Writing about engineering leadership and building AI-assisted development tools.
 ### Other Tools
 
 - **[bloginator](https://github.com/bordenet/bloginator)** - Blog generation using RAG to synthesize content from your existing writing corpus. Hybrid semantic search (ChromaDB + BM25), pattern-based slop detection, voice matching. Python CLI, Streamlit UI, FastAPI server. Supports Ollama, OpenAI, and Anthropic.
-- **[codebase-reviewer](https://github.com/bordenet/codebase-reviewer)** - AI-powered codebase analysis for systematic code review and onboarding.
 - **[secrets-in-source](https://github.com/bordenet/secrets-in-source)** - Fast concurrent scanner for detecting secrets in source control.
 - **[apple-quartile-solver](https://github.com/bordenet/apple-quartile-solver)** - Multi-interface solver for Apple News Quartile puzzles.
 - **[ZoomBackgroundMagick](https://github.com/bordenet/ZoomBackgroundMagick)** - Shell scripts using ffmpeg to convert panoramic images into scrolling video backgrounds and create slideshows for Zoom.
