@@ -2,23 +2,13 @@
 
 Engineering leader at Microsoft, Amazon, Warner Bros. Discovery (iStreamPlanet), Stash Financial, Telepathy.ai, and now [**Call Box**](https://callbox.com) (remote from Seattle), where I'm leading the team building [Cari Phone Assist](https://www.carwars.com/home/a/cari-phone-assist/), a conversational voice AI for automotive dealerships.
 
-I build AI-native products, reliable platforms, and the engineering organizations that run them, and I still write code.
+I help build AI-native products, reliable platforms, and the engineering organizations that run them, and I still write code.
 
 - **AI-native products:** conversational voice AI in production; earlier, moved Telepathy.ai from a six-year proprietary AI stack to commercial LLMs; [superpowers-plus](https://github.com/bordenet/superpowers-plus) for AI coding agents.
 - **Reliability at scale:** 99.99% uptime for live national sports broadcasts, ~90% to 99.9% uptime through a cloud migration, and outages down ~60% in a regulated fintech.
 - **Engineering organizations:** led organizations of 35 to 220 engineers, including distributed teams in Singapore and Zurich. How I run them: [Engineering Culture](https://github.com/bordenet/Engineering_Culture).
 
 **Case studies** (problem, decisions, results, and missteps): [Telepathy.ai](https://github.com/bordenet/Transformation_Case_Studies/blob/main/Transformation_Case_Study_TelepathyAI.md) · [Stash](https://github.com/bordenet/Transformation_Case_Studies/blob/main/Transformation_Case_Study_Stash.md) · [iStreamPlanet](https://github.com/bordenet/Transformation_Case_Studies/blob/main/Transformation_Case_Study_iStreamPlanet.md) · [AI-First at Telepathy.ai](https://github.com/bordenet/Transformation_Case_Studies/blob/main/AI-First_Case_Study_TelepathyAI.md)
-
-## How I Build Teams
-
-In each of my last four roles I started from the same place: unclear expectations; an engineering culture that usually wasn't written down anywhere, and that few people understood the same way; key terms that meant different things to different people; and morale that rose and fell week to week. The visible problems (skill gaps, stalled growth, engineers not taking ownership, headcount without a plan) grew out of those.
-
-- **Bootstrap the hiring bar, then hand it to the team.** At Call Box I hired two senior engineers first, interviewing alongside company leaders (our CTO and two engineering VPs), while developing the junior and mid-level engineers already on the team. From then on, the team ran its own hiring: the new seniors interviewed with me, and the junior and mid-level engineers ran every mid-level loop themselves. Every hire since came through the team's own loops, including two high-performing engineers.
-- **Make interviewing a structured skill.** The team works from a career ladder; rubrics and sample questions for mid-level and senior roles; working definitions for every behavioral term we assess; a defined loop with clear roles for screeners, interviewers, shadows and the hiring manager; meeting formats; and AI-generated interview summaries and script templates. Nobody has to wing an interview, so they can spend their attention on the candidate. The bar is evidence: interviewers don't compare notes before the debrief, and the debate runs on what each person actually observed, not speculation. The team gains depth when people are out, and interviewing someone for a skill makes you better at it yourself.
-- **Spread the work that used to sit with one person.** Deploys used to bottleneck through a single engineer. Now every engineer ships to production, about 20 deploys a week.
-- **Build mechanisms the team runs without me.** Product plans written before we build, DORA metrics for delivery, blameless post-mortems, daily triage led by whoever is on call. Recently a release caused a customer-facing problem. An engineer flagged it, senior engineers rolled it back, another engineer wrote the post-mortem and walked the team through it, and the team added the monitoring that would have caught it. I wasn't involved in any of it.
-- **Own the hard calls.** I've handled performance management in every role since Microsoft, including the difficult conversations. Someone has to be accountable, and that's me.
 
 ## What I Do
 
@@ -31,6 +21,16 @@ Along the way:
 - **Amazon (Software Development Manager):** Led SLAM, the real-time shipping-label and package-verification services behind 1B+ packages in 2015. Before that, I led three Prime Video teams (playback, global DRM, concurrency enforcement) while it grew from ~10M to 40M users.
 - **Microsoft (Principal Development Manager):** Engineering manager for the Windows Media DRM, Windows client, and Silverlight teams. We ran the breach response when attackers compromised Microsoft's DRM stack.
 - **U.S. Army (Signal Corps officer):** Where I first learned servant leadership.
+
+## How I Build Teams
+
+In each of my last four roles I started from the same place: unclear expectations; an engineering culture that usually wasn't written down anywhere, and that few people understood the same way; key terms that meant different things to different people; and morale that rose and fell week to week. The visible problems (skill gaps, stalled growth, engineers not taking ownership, headcount without a plan) grew out of those.
+
+- **Set the hiring bar together, then hand it to the team.** Our first two senior hires at Call Box came out of a real partnership. I drove the search and ran the process, but our CTO and two engineering VPs interviewed alongside me, and we would not have landed either engineer without them. At the same time, we kept developing the junior and mid-level engineers already on the team. From then on, the team ran its own hiring: the new seniors interviewed with me, and the junior and mid-level engineers ran every mid-level loop themselves. Every hire since came through the team's own loops, including two high-performing engineers.
+- **Make interviewing a structured skill.** The team works from a career ladder; rubrics and sample questions for mid-level and senior roles; working definitions for every behavioral term we assess; a defined loop with clear roles for screeners, interviewers, shadows and the hiring manager; meeting formats; and AI-generated interview summaries and script templates. Nobody has to wing an interview, so they can spend their attention on the candidate. The bar is evidence: interviewers don't compare notes before the debrief, and the debate runs on what each person actually observed, not speculation. The team gains depth when people are out, and interviewing someone for a skill makes you better at it yourself.
+- **Spread the work that used to sit with one person.** Deploys used to bottleneck through a single engineer. Now every engineer ships to production, about 20 deploys a week.
+- **Build mechanisms the team runs without me.** Product plans written before we build, DORA metrics for delivery, blameless post-mortems, daily triage led by whoever is on call. Recently a release caused a customer-facing problem. An engineer flagged it, senior engineers rolled it back, another engineer wrote the post-mortem and walked the team through it, and the team added the monitoring that would have caught it. I wasn't involved in any of it.
+- **Own the hard calls.** I've handled performance management in every role since Microsoft, including the difficult conversations.
 
 ## Current Focus
 
