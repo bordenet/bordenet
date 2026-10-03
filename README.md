@@ -10,6 +10,16 @@ I build AI-native products, reliable platforms, and the engineering organization
 
 **Case studies** (problem, decisions, results, and missteps): [Telepathy.ai](https://github.com/bordenet/Transformation_Case_Studies/blob/main/Transformation_Case_Study_TelepathyAI.md) · [Stash](https://github.com/bordenet/Transformation_Case_Studies/blob/main/Transformation_Case_Study_Stash.md) · [iStreamPlanet](https://github.com/bordenet/Transformation_Case_Studies/blob/main/Transformation_Case_Study_iStreamPlanet.md) · [AI-First at Telepathy.ai](https://github.com/bordenet/Transformation_Case_Studies/blob/main/AI-First_Case_Study_TelepathyAI.md)
 
+## How I Build Teams
+
+In each of my last four roles I started from the same place: unclear expectations; an engineering culture that usually wasn't written down anywhere, and that few people understood the same way; key terms that meant different things to different people; and morale that rose and fell week to week. The visible problems (skill gaps, stalled growth, engineers not taking ownership, headcount without a plan) grew out of those.
+
+- **Bootstrap the hiring bar, then hand it to the team.** At Call Box I hired two senior engineers first, interviewing alongside company leaders (our CTO and two engineering VPs), while developing the junior and mid-level engineers already on the team. From then on, the team ran its own hiring: the new seniors interviewed with me, and the junior and mid-level engineers ran every mid-level loop themselves. Every hire since came through the team's own loops, including two high-performing engineers.
+- **Make interviewing a structured skill.** The team works from a career ladder; rubrics and sample questions for mid-level and senior roles; working definitions for every behavioral term we assess; a defined loop with clear roles for screeners, interviewers, shadows and the hiring manager; meeting formats; and AI-generated interview summaries and script templates. Nobody has to wing an interview, so they can spend their attention on the candidate. The bar is evidence: interviewers don't compare notes before the debrief, and the debate runs on what each person actually observed, not speculation. The team gains depth when people are out, and interviewing someone for a skill makes you better at it yourself.
+- **Spread the work that used to sit with one person.** Deploys used to bottleneck through a single engineer. Now every engineer ships to production, about 20 deploys a week.
+- **Build mechanisms the team runs without me.** Product plans written before we build, DORA metrics for delivery, blameless post-mortems, daily triage led by whoever is on call. Recently a release caused a customer-facing problem. An engineer flagged it, senior engineers rolled it back, another engineer wrote the post-mortem and walked the team through it, and the team added the monitoring that would have caught it. I wasn't involved in any of it.
+- **Own the hard calls.** I've handled performance management in every role since Microsoft, including the difficult conversations. Someone has to be accountable, and that's me.
+
 ## What I Do
 
 Along the way:
