@@ -40,7 +40,7 @@ Writing about engineering leadership and building AI-assisted development tools.
 
 ### superpowers-plus
 
-**[superpowers-plus](https://github.com/bordenet/superpowers-plus)** - 124 skills that make AI coding assistants follow engineering practices they would otherwise skip (root-cause debugging, design alternatives, parallel code review, verification), backed by lifecycle hooks and git commit gates that run outside the model. Full support for Claude Code and Augment Code; skills for Codex, OpenCode, and MCP clients. Extends [obra/superpowers](https://github.com/obra/superpowers). This is where nearly all of my public-repo time goes.
+**[superpowers-plus](https://github.com/bordenet/superpowers-plus)** - 124 skills that make AI coding assistants follow engineering practices they would otherwise skip (root-cause debugging, design alternatives, parallel code review, verification), backed by lifecycle hooks and git commit gates that run outside the model. Full support for Claude Code and Augment Code; skills for Codex, OpenCode, and MCP clients. Extends [obra/superpowers](https://github.com/obra/superpowers). This is where nearly all of my open-source development time goes.
 
 ### More AI Tooling
 
