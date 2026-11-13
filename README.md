@@ -59,7 +59,6 @@ Writing about engineering leadership and building AI-assisted development tools.
 
 - **[RecipeArchive](https://github.com/bordenet/RecipeArchive)** - Full-stack recipe manager with web, iOS, and Android support.
 - **[identity-deep-dive](https://github.com/bordenet/identity-deep-dive)** - OAuth2/OIDC authorization server with security scanners and multi-tenant session management.
-- **[GameWiki](https://github.com/bordenet/GameWiki)** - Tabletop RPG campaign documentation system for turning session transcripts into searchable wiki pages. [Demo](https://bordenet.github.io/GameWiki/)
 
 ### Writing & Case Studies
 
